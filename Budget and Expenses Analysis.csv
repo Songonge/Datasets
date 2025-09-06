@@ -1,0 +1,1182 @@
+﻿project_id,project_name,start_date,end_date,project_manager,team_members,status,budget,expenditure,client
+P0005,Data Warehouse,2/23/2022 0:00,5/4/2023 0:00,Eve,Charlie,pending,907420,482370.952,Client A
+P0013,App Development,7/31/2023 0:00,10/7/2024 0:00,David,Bob,Cancelled,722076,482370.952,Client D
+P0034,App Development,6/26/2024 0:00,11/9/2022 0:00,David,"David, Bob",Cancelled,532976.7075,482370.952,Client A
+P0036,AI Software,5/17/2023 0:00,12/1/2023 0:00,Bob,"Charlie, Eve",Completed,499948,482370.952,Client D
+P0038,IoT Automation,4/7/2022 0:00,7/15/2022 0:00,Alice,"David, Bob, Alice",pending,532976.7075,482370.952,Client E
+P0042,Blockchain Integration,10/7/2022 0:00,12/21/2023 0:00,Charlie,"Frank, Bob, Alice",Completed,532976.7075,482370.952,Client E
+P0051,App Development,4/1/2024 0:00,9/5/2024 0:00,Bob,"Charlie, Alice, Frank",Completed,532976.7075,482370.952,Client B
+P0063,App Development,7/3/2023 0:00,5/1/2023 0:00,Frank,"Charlie, Bob, David",Active,588323,482370.952,Client E
+P0067,IoT Automation,3/7/2023 0:00,9/8/2022 0:00,Eve,Frank,Active,844385,482370.952,Client A
+P0073,AI Software,1/1/2023 0:00,3/16/2024 0:00,Frank,Frank,Cancelled,781765,482370.952,Client C
+P0082,Data Warehouse,8/12/2024 0:00,3/29/2022 0:00,Eve,Charlie,Active,271856,482370.952,Client A
+P0087,IoT Automation,7/28/2022 0:00,3/24/2022 0:00,Alice,"Alice, Charlie",pending,521296,482370.952,Client E
+P0088,IoT Automation,1/13/2024 0:00,7/12/2022 0:00,Bob,Eve,pending,464314,482370.952,Client D
+P0089,IoT Automation,2/23/2023 0:00,8/19/2022 0:00,Frank,"Frank, Charlie",Cancelled,254804,482370.952,Client B
+P0094,App Development,12/8/2023 0:00,3/13/2023 0:00,Frank,David,Completed,244327,482370.952,Client B
+P0099,Cloud Migration,10/9/2023 0:00,7/6/2023 0:00,Charlie,"Bob, Alice, Charlie",Cancelled,755425,482370.952,Client B
+P0105,IoT Automation,5/29/2022 0:00,5/11/2023 0:00,Charlie,"Alice, Frank",Cancelled,826888,482370.952,Client E
+P0108,Blockchain Integration,2/20/2023 0:00,8/5/2023 0:00,Bob,David,pending,670421,482370.952,Client D
+P0109,AI Software,5/20/2023 0:00,4/19/2024 0:00,David,David,pending,532976.7075,482370.952,Client D
+P0111,Cloud Migration,7/5/2023 0:00,9/10/2024 0:00,Frank,Alice,pending,677187,482370.952,Client C
+P0112,Data Warehouse,3/6/2023 0:00,8/28/2022 0:00,Alice,"David, Frank, Bob",Completed,272702,482370.952,Client D
+P0123,Cloud Migration,4/11/2024 0:00,9/2/2022 0:00,Frank,Eve,Cancelled,974878,482370.952,Client C
+P0124,Blockchain Integration,11/26/2023 0:00,12/2/2022 0:00,Alice,Alice,pending,889912,482370.952,Client C
+P0137,Data Warehouse,7/26/2024 0:00,10/17/2022 0:00,Charlie,"Bob, Alice",pending,813536,482370.952,Client A
+P0138,Blockchain Integration,5/23/2023 0:00,4/5/2023 0:00,Charlie,David,pending,532976.7075,482370.952,Client C
+P0157,Data Warehouse,11/9/2023 0:00,10/27/2024 0:00,Alice,"Bob, Eve, David",pending,611126,482370.952,Client D
+P0164,App Development,11/13/2023 0:00,3/14/2022 0:00,Frank,Frank,pending,732929,482370.952,Client C
+P0177,App Development,2/11/2023 0:00,5/12/2024 0:00,Bob,"Alice, Eve, Charlie",Active,151081,482370.952,Client A
+P0181,IoT Automation,7/29/2024 0:00,2/4/2023 0:00,Eve,Bob,Completed,270651,482370.952,Client B
+P0192,AI Software,6/10/2024 0:00,5/16/2024 0:00,Frank,"Charlie, Alice",Completed,816212,482370.952,Client E
+P0193,App Development,2/19/2023 0:00,6/28/2024 0:00,Eve,Charlie,Active,617316,482370.952,Client E
+P0194,Data Warehouse,10/26/2022 0:00,9/18/2023 0:00,Bob,David,Completed,566266,482370.952,Client B
+P0199,Data Warehouse,10/1/2023 0:00,5/26/2024 0:00,Frank,"Alice, Charlie, David",Completed,932923,482370.952,Client C
+P0208,AI Software,2/24/2022 0:00,12/19/2022 0:00,David,"Charlie, Frank, Bob",Active,796990,482370.952,Client B
+P0223,IoT Automation,3/15/2024 0:00,10/8/2024 0:00,Charlie,"Bob, Eve",Active,489921,482370.952,Client A
+P0229,IoT Automation,3/3/2024 0:00,8/17/2023 0:00,Bob,Charlie,pending,355512,482370.952,Client A
+P0235,Blockchain Integration,8/5/2022 0:00,11/26/2023 0:00,Frank,Eve,pending,942918,482370.952,Client D
+P0237,AI Software,5/20/2023 0:00,6/3/2024 0:00,Bob,Bob,pending,999516,482370.952,Client C
+P0240,App Development,6/18/2022 0:00,4/16/2023 0:00,David,"Frank, Charlie",Completed,176116,482370.952,Client B
+P0243,App Development,4/30/2023 0:00,11/30/2022 0:00,Charlie,Charlie,pending,479293,482370.952,Client E
+P0247,IoT Automation,5/7/2022 0:00,8/14/2024 0:00,David,"Charlie, Bob",Completed,918551,482370.952,Client A
+P0249,AI Software,1/27/2023 0:00,9/25/2023 0:00,Bob,Bob,Cancelled,491834,482370.952,Client E
+P0254,AI Software,5/7/2024 0:00,3/11/2024 0:00,Alice,"Eve, Frank",Completed,526279,482370.952,Client C
+P0263,IoT Automation,10/13/2022 0:00,6/5/2022 0:00,Bob,Charlie,Active,141889,482370.952,Client E
+P0275,Data Warehouse,9/15/2022 0:00,2/3/2024 0:00,Frank,"Charlie, Eve",Cancelled,243935,482370.952,Client E
+P0276,Cloud Migration,8/10/2022 0:00,4/8/2023 0:00,David,David,Cancelled,195407,482370.952,Client E
+P0284,AI Software,6/28/2023 0:00,6/11/2024 0:00,Eve,"Alice, Eve, Frank",pending,693509,482370.952,Client B
+P0287,IoT Automation,4/5/2024 0:00,12/15/2022 0:00,Frank,"Charlie, Eve",pending,531530,482370.952,Client C
+P0292,Blockchain Integration,7/27/2023 0:00,8/27/2024 0:00,David,"Charlie, Frank, David",Cancelled,821768,482370.952,Client B
+P0297,Blockchain Integration,9/25/2023 0:00,1/18/2023 0:00,David,Bob,pending,281839,482370.952,Client B
+P0313,Cloud Migration,10/6/2023 0:00,10/10/2022 0:00,David,"Frank, Eve, Charlie",Completed,576851,482370.952,Client A
+P0319,Cloud Migration,5/11/2023 0:00,4/15/2024 0:00,Bob,David,Completed,724187,482370.952,Client D
+P0358,Blockchain Integration,10/20/2022 0:00,10/5/2023 0:00,Charlie,"Frank, Eve, Charlie",Cancelled,528379,482370.952,Client E
+P0360,AI Software,11/12/2023 0:00,2/28/2023 0:00,Eve,"Charlie, Alice",Completed,503151,482370.952,Client D
+P0374,Data Warehouse,6/28/2023 0:00,8/13/2023 0:00,Frank,David,pending,470425,482370.952,Client C
+P0381,Cloud Migration,2/1/2024 0:00,11/30/2023 0:00,David,"Alice, Frank",Cancelled,938966,482370.952,Client E
+P0389,AI Software,4/29/2023 0:00,9/7/2023 0:00,Alice,"Frank, David",Active,372482,482370.952,Client B
+P0393,AI Software,12/30/2023 0:00,6/15/2023 0:00,Eve,"Eve, Charlie",pending,305219,482370.952,Client C
+P0404,Data Warehouse,8/17/2024 0:00,4/22/2022 0:00,Bob,"Frank, David",pending,295056,482370.952,Client A
+P0412,App Development,1/12/2023 0:00,7/28/2022 0:00,Eve,Eve,Active,543824,482370.952,Client C
+P0419,Blockchain Integration,8/8/2023 0:00,6/17/2022 0:00,Frank,"Alice, Eve",Completed,916902,482370.952,Client D
+P0427,Data Warehouse,12/10/2022 0:00,9/20/2022 0:00,Charlie,"Charlie, Frank",pending,159611,482370.952,Client A
+P0430,IoT Automation,5/3/2023 0:00,6/18/2024 0:00,Alice,Alice,Active,238717,482370.952,Client D
+P0434,IoT Automation,4/12/2023 0:00,6/5/2022 0:00,Charlie,Charlie,pending,283652,482370.952,Client D
+P0468,Cloud Migration,11/9/2023 0:00,9/23/2022 0:00,Bob,"Bob, Eve",Completed,560352,482370.952,Client C
+P0470,AI Software,1/1/2023 0:00,7/1/2022 0:00,Frank,Frank,Active,587802,482370.952,Client B
+P0481,App Development,6/4/2024 0:00,8/3/2022 0:00,Alice,Alice,Active,600284,482370.952,Client E
+P0482,Cloud Migration,8/17/2024 0:00,10/19/2024 0:00,Eve,"Bob, David, Alice",Cancelled,532976.7075,482370.952,Client A
+P0484,IoT Automation,8/18/2022 0:00,10/15/2022 0:00,Frank,Frank,Active,469604,482370.952,Client A
+P0497,Blockchain Integration,12/8/2023 0:00,8/23/2023 0:00,Eve,"David, Bob, Alice",Cancelled,714068,482370.952,Client B
+P0504,Cloud Migration,9/13/2024 0:00,10/12/2023 0:00,David,"David, Bob, Eve",Completed,496283,482370.952,Client C
+P0541,App Development,8/1/2024 0:00,4/7/2022 0:00,Charlie,Charlie,Cancelled,859459,482370.952,Client E
+P0544,Cloud Migration,7/1/2022 0:00,12/30/2023 0:00,Charlie,Charlie,Completed,370157,482370.952,Client B
+P0553,App Development,12/23/2023 0:00,5/24/2024 0:00,Eve,"Alice, David, Charlie",Active,354273,482370.952,Client C
+P0554,IoT Automation,12/12/2023 0:00,8/19/2024 0:00,Alice,"David, Frank",Cancelled,604547,482370.952,Client D
+P0561,Cloud Migration,7/24/2023 0:00,7/9/2022 0:00,David,Frank,Cancelled,488371,482370.952,Client C
+P0570,Data Warehouse,8/2/2023 0:00,8/8/2024 0:00,Charlie,Charlie,Completed,994643,482370.952,Client C
+P0574,Cloud Migration,2/23/2022 0:00,9/1/2022 0:00,Alice,"Charlie, Frank, Bob",Completed,549359,482370.952,Client C
+P0579,App Development,9/1/2023 0:00,11/20/2023 0:00,Frank,"David, Frank, Bob",pending,532976.7075,482370.952,Client B
+P0580,Blockchain Integration,10/14/2023 0:00,3/27/2023 0:00,Charlie,Eve,Active,239967,482370.952,Client E
+P0583,IoT Automation,9/14/2022 0:00,5/22/2024 0:00,Alice,Alice,pending,833986,482370.952,Client D
+P0584,Cloud Migration,11/25/2022 0:00,3/24/2022 0:00,Bob,"Bob, Alice, David",Completed,699782,482370.952,Client B
+P0611,IoT Automation,8/31/2022 0:00,4/3/2024 0:00,Alice,"David, Frank",Cancelled,988272,482370.952,Client B
+P0616,IoT Automation,10/11/2023 0:00,8/4/2024 0:00,Bob,"Bob, David",Cancelled,532976.7075,482370.952,Client C
+P0619,AI Software,12/25/2022 0:00,11/1/2022 0:00,Charlie,Alice,pending,857878,482370.952,Client A
+P0623,Blockchain Integration,9/24/2024 0:00,11/29/2022 0:00,Alice,"Alice, Bob, Charlie",pending,556481,482370.952,Client E
+P0631,AI Software,6/22/2024 0:00,11/3/2022 0:00,Bob,Bob,pending,151288,482370.952,Client D
+P0633,Cloud Migration,8/19/2022 0:00,3/21/2024 0:00,Charlie,Charlie,pending,364431,482370.952,Client B
+P0644,IoT Automation,6/17/2024 0:00,8/28/2024 0:00,Bob,David,Cancelled,362773,482370.952,Client E
+P0662,App Development,4/6/2023 0:00,7/13/2022 0:00,Eve,Frank,Completed,719171,482370.952,Client B
+P0671,App Development,3/16/2022 0:00,6/9/2023 0:00,Charlie,David,Cancelled,527123,482370.952,Client C
+P0681,App Development,8/1/2022 0:00,4/27/2024 0:00,Charlie,David,pending,707716,482370.952,Client C
+P0692,Data Warehouse,7/21/2022 0:00,9/11/2022 0:00,Eve,"David, Charlie",pending,771109,482370.952,Client B
+P0695,AI Software,2/2/2023 0:00,4/3/2023 0:00,Charlie,David,Completed,708358,482370.952,Client E
+P0699,Cloud Migration,12/9/2023 0:00,9/7/2022 0:00,Charlie,"David, Frank, Bob",Completed,507923,482370.952,Client E
+P0700,IoT Automation,9/9/2023 0:00,5/21/2023 0:00,Eve,Charlie,pending,444548,482370.952,Client D
+P0704,AI Software,5/1/2023 0:00,10/12/2024 0:00,Charlie,"Frank, David, Eve",Completed,603174,482370.952,Client D
+P0739,Data Warehouse,12/14/2023 0:00,4/30/2024 0:00,Eve,Frank,Cancelled,823024,482370.952,Client B
+P0750,Cloud Migration,4/18/2022 0:00,8/19/2024 0:00,David,"Frank, Alice, Eve",pending,880823,482370.952,Client C
+P0757,Cloud Migration,4/5/2023 0:00,6/13/2023 0:00,Charlie,"Frank, David, Eve",Cancelled,103902,482370.952,Client A
+P0764,Data Warehouse,7/17/2024 0:00,8/18/2022 0:00,,,Active,723534,482370.952,Client E
+P0765,Blockchain Integration,5/25/2023 0:00,11/21/2022 0:00,David,"David, Charlie",Active,903340,482370.952,Client A
+P0766,Cloud Migration,1/3/2023 0:00,1/31/2023 0:00,Alice,"Bob, Eve, Frank",Active,242365,482370.952,Client A
+P0767,Data Warehouse,5/1/2024 0:00,5/18/2022 0:00,Alice,Eve,Active,680476,482370.952,Client E
+P0770,Data Warehouse,3/6/2023 0:00,12/27/2022 0:00,Charlie,"Bob, Alice",Cancelled,134057,482370.952,Client C
+P0775,AI Software,10/14/2022 0:00,11/2/2023 0:00,Charlie,David,Cancelled,532976.7075,482370.952,Client E
+P0777,App Development,2/9/2023 0:00,1/19/2024 0:00,Eve,"David, Charlie, Frank",Cancelled,955316,482370.952,Client A
+P0787,Blockchain Integration,9/4/2024 0:00,8/13/2022 0:00,Alice,"Frank, Bob",Active,650454,482370.952,Client B
+P0789,App Development,8/23/2022 0:00,6/29/2024 0:00,Eve,Alice,pending,218881,482370.952,Client C
+P0790,Blockchain Integration,3/10/2023 0:00,1/18/2023 0:00,David,"Frank, Charlie, David",pending,532976.7075,482370.952,Client A
+P0797,Blockchain Integration,1/27/2023 0:00,4/6/2024 0:00,Eve,Eve,pending,667600,482370.952,Client C
+P0798,Cloud Migration,1/5/2023 0:00,2/5/2023 0:00,Bob,"Eve, Bob, Alice",Cancelled,183532,482370.952,Client B
+P0800,Data Warehouse,5/30/2023 0:00,11/18/2023 0:00,David,David,Completed,824023,482370.952,Client D
+P0803,App Development,4/11/2023 0:00,4/28/2023 0:00,Bob,Bob,Cancelled,888845,482370.952,Client E
+P0813,Data Warehouse,12/21/2023 0:00,9/16/2023 0:00,Bob,"Alice, Bob, Charlie",Active,478670,482370.952,Client D
+P0836,IoT Automation,9/3/2022 0:00,10/2/2022 0:00,Eve,Eve,Cancelled,706424,482370.952,Client B
+P0838,AI Software,5/12/2023 0:00,7/7/2023 0:00,Charlie,Bob,Completed,230703,482370.952,Client E
+P0853,Blockchain Integration,9/23/2023 0:00,8/6/2024 0:00,Eve,"Eve, Bob",Completed,218083,482370.952,Client C
+P0858,App Development,5/18/2022 0:00,3/20/2023 0:00,David,Frank,pending,251397,482370.952,Client B
+P0875,IoT Automation,12/10/2023 0:00,1/12/2023 0:00,David,"Eve, Alice, David",Completed,403114,482370.952,Client D
+P0884,Data Warehouse,3/14/2024 0:00,8/8/2024 0:00,Eve,"Alice, Bob",pending,389003,482370.952,Client C
+P0886,Data Warehouse,10/25/2023 0:00,12/3/2022 0:00,Alice,"Charlie, David",Completed,603683,482370.952,Client D
+P0905,IoT Automation,1/24/2024 0:00,7/3/2023 0:00,David,"Bob, David",Cancelled,653991,482370.952,Client C
+P0932,Data Warehouse,6/11/2024 0:00,8/26/2022 0:00,Frank,"Frank, David",Cancelled,532976.7075,482370.952,Client B
+P0940,App Development,10/12/2023 0:00,9/14/2022 0:00,Eve,Eve,Active,774254,482370.952,Client D
+P0948,IoT Automation,9/9/2024 0:00,1/3/2024 0:00,Alice,"Frank, Charlie",Cancelled,599135,482370.952,Client C
+P0950,App Development,9/11/2024 0:00,6/1/2023 0:00,David,David,pending,894114,482370.952,Client C
+P0961,IoT Automation,5/12/2023 0:00,5/21/2022 0:00,Alice,"David, Charlie, Bob",Active,757673,482370.952,Client A
+P0968,Data Warehouse,9/14/2023 0:00,3/18/2024 0:00,David,Charlie,Active,164251,482370.952,Client E
+P0971,IoT Automation,6/11/2022 0:00,1/31/2023 0:00,Bob,"Bob, David",Cancelled,859233,482370.952,Client E
+P0972,Cloud Migration,12/19/2023 0:00,8/6/2022 0:00,Frank,"Alice, Eve",Completed,757594,482370.952,Client E
+P0973,AI Software,2/21/2023 0:00,8/7/2023 0:00,Frank,Eve,pending,898063,482370.952,Client D
+P0983,Data Warehouse,6/22/2023 0:00,2/25/2023 0:00,David,Eve,pending,176769,482370.952,Client D
+P0985,AI Software,10/3/2024 0:00,4/22/2024 0:00,Frank,Eve,Completed,833675,482370.952,Client A
+P0986,AI Software,10/9/2023 0:00,8/10/2023 0:00,Frank,"David, Bob, Alice",Active,379068,482370.952,Client E
+P0996,App Development,5/11/2022 0:00,7/24/2022 0:00,Charlie,"Bob, David, Frank",Completed,566695,482370.952,Client E
+P1003,App Development,12/19/2022 0:00,11/12/2022 0:00,Eve,"Charlie, Bob, Alice",pending,709644,482370.952,Client C
+P1012,App Development,6/17/2023 0:00,1/1/2023 0:00,Charlie,Charlie,pending,665209,482370.952,Client D
+P1022,IoT Automation,7/2/2022 0:00,12/12/2022 0:00,Eve,Alice,pending,548497,482370.952,Client C
+P1028,Blockchain Integration,11/3/2022 0:00,3/7/2023 0:00,Frank,Alice,pending,532976.7075,482370.952,Client D
+P1040,AI Software,5/26/2023 0:00,2/19/2023 0:00,Eve,"Bob, Charlie",Active,894357,482370.952,Client B
+P1041,Blockchain Integration,8/19/2022 0:00,12/17/2022 0:00,Charlie,Charlie,Active,767984,482370.952,Client B
+P1045,IoT Automation,5/11/2022 0:00,6/23/2023 0:00,Frank,Bob,pending,665215,482370.952,Client B
+P1053,IoT Automation,3/22/2024 0:00,7/6/2022 0:00,,,Cancelled,267011,482370.952,Client B
+P1058,Blockchain Integration,5/1/2023 0:00,9/7/2022 0:00,Bob,Charlie,Cancelled,905292,482370.952,Client A
+P1064,AI Software,4/24/2023 0:00,10/17/2024 0:00,Alice,Alice,Cancelled,590012,482370.952,Client D
+P1075,Data Warehouse,11/11/2022 0:00,2/24/2022 0:00,Frank,Charlie,Active,437264,482370.952,Client E
+P1079,App Development,4/7/2024 0:00,9/12/2022 0:00,Frank,"Alice, Frank",pending,143907,482370.952,Client A
+P1083,AI Software,12/20/2023 0:00,10/8/2022 0:00,Charlie,"Frank, David, Alice",pending,997607,482370.952,Client E
+P1097,AI Software,3/27/2023 0:00,4/5/2022 0:00,Frank,Frank,Cancelled,371226,482370.952,Client E
+P1108,Blockchain Integration,9/28/2023 0:00,9/6/2022 0:00,Frank,Eve,Cancelled,647066,482370.952,Client D
+P1109,App Development,4/17/2022 0:00,9/21/2023 0:00,Charlie,"Bob, Frank",Active,802016,482370.952,Client C
+P1112,Cloud Migration,11/2/2023 0:00,4/15/2024 0:00,Alice,"Alice, David, Eve",Completed,532976.7075,482370.952,Client A
+P1121,Blockchain Integration,11/1/2023 0:00,2/22/2023 0:00,Charlie,"Eve, Alice, David",Cancelled,471904,482370.952,Client D
+P1125,Cloud Migration,2/1/2024 0:00,10/21/2023 0:00,Charlie,Charlie,Cancelled,808576,482370.952,Client D
+P1128,Cloud Migration,3/15/2024 0:00,9/23/2022 0:00,David,Eve,pending,864670,482370.952,Client E
+P1132,AI Software,1/17/2024 0:00,5/6/2024 0:00,Bob,Bob,Completed,404716,482370.952,Client E
+P1153,Blockchain Integration,8/24/2023 0:00,9/29/2023 0:00,Frank,Frank,Cancelled,248285,482370.952,Client D
+P1165,Blockchain Integration,8/31/2023 0:00,8/23/2024 0:00,Alice,"Eve, Alice, Bob",Active,996336,482370.952,Client D
+P1169,App Development,5/5/2022 0:00,5/23/2023 0:00,Eve,Eve,pending,898337,482370.952,Client A
+P1187,Cloud Migration,9/25/2022 0:00,7/2/2022 0:00,David,"Bob, Charlie",Cancelled,963020,482370.952,Client A
+P1188,Cloud Migration,10/11/2022 0:00,6/8/2024 0:00,Frank,"Frank, Alice",Cancelled,225515,482370.952,Client B
+P1200,Data Warehouse,3/24/2022 0:00,7/10/2023 0:00,Charlie,Charlie,Completed,600534,482370.952,Client D
+P1201,Cloud Migration,9/13/2024 0:00,11/20/2023 0:00,Alice,Alice,pending,127657,482370.952,Client B
+P1206,Data Warehouse,4/13/2024 0:00,12/19/2023 0:00,Charlie,Charlie,Active,630424,482370.952,Client B
+P1216,Cloud Migration,3/19/2023 0:00,12/16/2023 0:00,Frank,"Eve, Alice",Completed,122286,482370.952,Client A
+P1232,Data Warehouse,6/29/2023 0:00,10/13/2024 0:00,Alice,Alice,Completed,532976.7075,482370.952,Client D
+P1238,IoT Automation,5/7/2024 0:00,10/31/2022 0:00,David,"Bob, Alice",Completed,677022,482370.952,Client B
+P1255,Cloud Migration,2/3/2023 0:00,10/7/2024 0:00,David,Eve,Cancelled,776473,482370.952,Client A
+P1259,Cloud Migration,9/1/2023 0:00,10/3/2024 0:00,Charlie,Charlie,pending,118931,482370.952,Client E
+P1262,App Development,5/12/2023 0:00,6/5/2023 0:00,Bob,"Eve, David, Charlie",Cancelled,167989,482370.952,Client C
+P1264,Cloud Migration,7/24/2024 0:00,2/24/2024 0:00,David,Bob,Cancelled,116539,482370.952,Client B
+P1314,Cloud Migration,1/30/2023 0:00,7/7/2024 0:00,David,"Alice, Bob",Completed,693774,482370.952,Client D
+P1321,Blockchain Integration,9/16/2022 0:00,6/5/2022 0:00,David,Eve,Active,198039,482370.952,Client D
+P1333,Blockchain Integration,6/28/2022 0:00,10/26/2023 0:00,Frank,Frank,pending,984272,482370.952,Client D
+P1341,IoT Automation,8/6/2022 0:00,6/6/2022 0:00,Bob,"Charlie, Alice",Active,601656,482370.952,Client B
+P1346,Cloud Migration,10/31/2022 0:00,6/6/2023 0:00,David,"Charlie, Alice, David",pending,532976.7075,482370.952,Client A
+P1358,IoT Automation,3/14/2023 0:00,11/6/2023 0:00,Frank,"Eve, Frank",Cancelled,735996,482370.952,Client B
+P1365,AI Software,7/26/2023 0:00,8/20/2023 0:00,Eve,"David, Alice",pending,250625,482370.952,Client D
+P1376,App Development,7/15/2022 0:00,9/1/2023 0:00,Charlie,Bob,Completed,120407,482370.952,Client C
+P1378,IoT Automation,7/14/2023 0:00,11/6/2023 0:00,Frank,Charlie,pending,615998,482370.952,Client C
+P1386,IoT Automation,7/5/2023 0:00,8/28/2023 0:00,Charlie,"Alice, Bob",Cancelled,375564,482370.952,Client A
+P1400,Blockchain Integration,9/4/2024 0:00,11/4/2024 0:00,Eve,"David, Bob, Charlie",pending,349532,482370.952,Client D
+P1418,Blockchain Integration,8/28/2022 0:00,3/6/2022 0:00,Alice,Alice,Cancelled,593248,482370.952,Client D
+P1430,AI Software,9/30/2023 0:00,6/10/2023 0:00,Frank,"Bob, Charlie, Frank",pending,540263,482370.952,Client C
+P1436,Data Warehouse,4/17/2023 0:00,7/21/2023 0:00,Bob,"David, Alice",Cancelled,342880,482370.952,Client A
+P1450,Blockchain Integration,10/17/2024 0:00,7/4/2023 0:00,Alice,"Eve, Alice, Frank",Active,532976.7075,482370.952,Client D
+P1452,AI Software,9/27/2024 0:00,3/15/2022 0:00,Bob,Bob,Active,524762,482370.952,Client A
+P1455,IoT Automation,12/1/2022 0:00,5/15/2022 0:00,Eve,Eve,Active,532976.7075,482370.952,Client A
+P1457,IoT Automation,4/12/2023 0:00,2/12/2024 0:00,Eve,"Eve, Frank",Cancelled,188450,482370.952,Client A
+P1469,Blockchain Integration,3/6/2022 0:00,11/11/2024 0:00,Alice,"Charlie, David, Alice",Cancelled,176287,482370.952,Client A
+P1473,IoT Automation,6/27/2024 0:00,6/21/2022 0:00,David,Charlie,Active,141350,482370.952,Client A
+P1485,Cloud Migration,3/23/2024 0:00,11/12/2022 0:00,Charlie,"Bob, David",Completed,854124,482370.952,Client B
+P1495,Blockchain Integration,9/1/2024 0:00,9/7/2022 0:00,Alice,Bob,Completed,580127,482370.952,Client E
+P1497,AI Software,9/23/2022 0:00,4/18/2023 0:00,Eve,"Eve, David",pending,829054,482370.952,Client C
+P1501,IoT Automation,2/24/2024 0:00,3/4/2024 0:00,Frank,"David, Frank, Charlie",pending,509464,482370.952,Client B
+P1505,Data Warehouse,5/20/2022 0:00,4/26/2023 0:00,Frank,"Frank, David",Cancelled,498928,482370.952,Client C
+P1537,Blockchain Integration,9/29/2022 0:00,8/30/2024 0:00,Frank,"David, Bob, Eve",pending,470168,482370.952,Client E
+P1543,Data Warehouse,3/31/2023 0:00,6/2/2023 0:00,Charlie,Frank,Cancelled,970641,482370.952,Client A
+P1565,App Development,6/4/2022 0:00,11/30/2023 0:00,Eve,"Eve, Alice",Completed,685823,482370.952,Client A
+P1571,App Development,7/18/2022 0:00,10/5/2022 0:00,Bob,Bob,Completed,753451,482370.952,Client B
+P1575,AI Software,3/25/2023 0:00,3/26/2022 0:00,Charlie,"Charlie, Alice, Eve",Active,604592,482370.952,Client A
+P1576,AI Software,8/25/2023 0:00,1/18/2024 0:00,Alice,Alice,Cancelled,272820,482370.952,Client D
+P1582,Cloud Migration,2/15/2024 0:00,8/30/2023 0:00,Charlie,"Frank, Eve",Completed,513695,482370.952,Client E
+P1590,AI Software,6/6/2022 0:00,2/15/2024 0:00,David,"Charlie, Frank, Bob",pending,650004,482370.952,Client D
+P1602,Data Warehouse,2/11/2023 0:00,5/13/2024 0:00,Alice,David,Active,227940,482370.952,Client A
+P1611,IoT Automation,12/3/2022 0:00,9/1/2022 0:00,David,"Frank, Bob, Charlie",pending,270697,482370.952,Client A
+P1614,Blockchain Integration,6/18/2023 0:00,6/23/2024 0:00,Charlie,"David, Alice, Charlie",pending,536294,482370.952,Client C
+P1619,Data Warehouse,12/15/2023 0:00,8/6/2022 0:00,Alice,Alice,pending,393116,482370.952,Client C
+P1623,IoT Automation,3/6/2022 0:00,2/25/2022 0:00,Bob,Bob,pending,801827,482370.952,Client E
+P1626,Cloud Migration,6/22/2024 0:00,9/22/2022 0:00,Eve,Charlie,Cancelled,481377,482370.952,Client B
+P1632,IoT Automation,11/8/2022 0:00,10/19/2022 0:00,Bob,"Alice, Frank",pending,951881,482370.952,Client B
+P1633,Cloud Migration,2/10/2023 0:00,6/5/2023 0:00,Frank,"David, Frank",Completed,448436,482370.952,Client A
+P1669,Blockchain Integration,5/20/2022 0:00,11/1/2022 0:00,Eve,"Eve, David, Bob",Completed,240221,482370.952,Client D
+P1671,Data Warehouse,9/22/2022 0:00,4/28/2022 0:00,Eve,"Alice, Charlie",pending,736044,482370.952,Client C
+P1684,App Development,11/18/2023 0:00,8/4/2022 0:00,Charlie,Charlie,Active,925148,482370.952,Client A
+P1689,Data Warehouse,2/12/2024 0:00,7/29/2024 0:00,David,"David, Charlie, Eve",Cancelled,497315,482370.952,Client D
+P1701,IoT Automation,1/2/2023 0:00,11/10/2023 0:00,David,"David, Eve, Frank",Cancelled,532976.7075,482370.952,Client C
+P1711,Blockchain Integration,10/14/2022 0:00,11/25/2022 0:00,Alice,Alice,pending,868401,482370.952,Client A
+P1716,Blockchain Integration,4/24/2022 0:00,3/28/2022 0:00,Eve,"Charlie, Alice, David",Cancelled,347940,482370.952,Client C
+P1720,Data Warehouse,5/3/2023 0:00,5/6/2024 0:00,Charlie,David,pending,666402,482370.952,Client D
+P1724,AI Software,8/5/2024 0:00,9/21/2023 0:00,Bob,"Alice, Bob, Eve",Active,585519,482370.952,Client A
+P1743,Data Warehouse,10/4/2023 0:00,8/19/2023 0:00,Alice,"Frank, Alice",Cancelled,957211,482370.952,Client A
+P1749,App Development,1/28/2023 0:00,4/6/2024 0:00,David,"David, Charlie",Active,482003,482370.952,Client A
+P1768,AI Software,7/11/2022 0:00,8/3/2022 0:00,Frank,"Eve, Frank",pending,532976.7075,482370.952,Client D
+P0001,IoT Automation,9/29/2024 0:00,8/29/2024 0:00,David,"Frank, Bob, Eve",Completed,372988,858847,Client D
+P0003,AI Software,4/28/2024 0:00,10/18/2024 0:00,Eve,"Charlie, Frank",Cancelled,130217,451166,Client C
+P0006,Blockchain Integration,1/27/2023 0:00,2/6/2023 0:00,Eve,Eve,Cancelled,293810,806726,Client A
+P0009,IoT Automation,11/14/2022 0:00,9/2/2023 0:00,Bob,Alice,Cancelled,315569,604859,Client B
+P0011,IoT Automation,10/16/2023 0:00,6/25/2022 0:00,Alice,"Eve, Bob",Active,413115,703235,Client A
+P0014,AI Software,6/9/2022 0:00,5/12/2022 0:00,Charlie,Charlie,Completed,478471,502406,Client C
+P0029,IoT Automation,8/15/2022 0:00,7/19/2022 0:00,Alice,"Bob, David",Completed,360590,443820,Client E
+P0031,Cloud Migration,8/3/2024 0:00,12/16/2023 0:00,Bob,Bob,Active,100283,434541,Client E
+P0040,Data Warehouse,10/29/2023 0:00,3/2/2023 0:00,Bob,"Frank, David, Alice",Completed,543721,570678,Client B
+P0041,Data Warehouse,10/27/2023 0:00,10/10/2023 0:00,Frank,"David, Bob",Cancelled,490931,864075,Client E
+P0044,Data Warehouse,12/30/2022 0:00,8/16/2023 0:00,Frank,"Eve, David",Completed,136692,250022,Client C
+P0046,AI Software,5/22/2024 0:00,11/1/2023 0:00,Alice,Charlie,Active,579123,615852,Client E
+P0047,Cloud Migration,2/22/2024 0:00,12/24/2022 0:00,Frank,Frank,Active,939444,371855,Client C
+P0048,AI Software,7/7/2024 0:00,10/27/2023 0:00,Alice,Alice,Completed,226169,186664,Client D
+P0056,App Development,9/4/2022 0:00,11/16/2023 0:00,Alice,"Frank, Charlie, Alice",Active,386402,568895,Client A
+P0060,App Development,8/21/2022 0:00,8/7/2024 0:00,Alice,"Bob, Frank, Alice",Cancelled,516849,502168,Client D
+P0064,Data Warehouse,9/9/2022 0:00,8/6/2024 0:00,Eve,"Eve, Charlie, Bob",Cancelled,113913,606843,Client E
+P0068,AI Software,7/19/2023 0:00,10/22/2023 0:00,Eve,Bob,Cancelled,602447,767696,Client C
+P0072,Data Warehouse,3/22/2023 0:00,5/8/2022 0:00,Eve,"Alice, Bob",Cancelled,569750,180751,Client E
+P0077,Data Warehouse,5/20/2022 0:00,7/4/2023 0:00,Frank,Frank,Active,342767,493745,Client E
+P0080,Data Warehouse,5/19/2024 0:00,1/18/2024 0:00,Eve,Alice,Cancelled,727099,759957,Client D
+P0083,Data Warehouse,6/28/2023 0:00,2/18/2023 0:00,Alice,"Alice, Frank, Bob",Active,489307,308051,Client E
+P0091,App Development,10/26/2023 0:00,8/7/2022 0:00,Charlie,David,Completed,808534,90611,Client A
+P0092,IoT Automation,5/20/2023 0:00,1/23/2023 0:00,Alice,"Frank, Charlie, David",Completed,477832,895253,Client A
+P0093,Blockchain Integration,8/6/2024 0:00,7/3/2024 0:00,Charlie,"Charlie, David",Cancelled,190644,881027,Client A
+P0096,Blockchain Integration,7/16/2023 0:00,5/22/2024 0:00,Alice,"Frank, Alice",Active,572665,144351,Client C
+P0098,Cloud Migration,8/23/2024 0:00,10/29/2022 0:00,Frank,"Frank, Eve",Active,144832,620816,Client A
+P0101,IoT Automation,1/1/2024 0:00,10/31/2023 0:00,Frank,"Alice, Bob",Completed,972428,434034,Client C
+P0107,AI Software,1/30/2023 0:00,10/23/2024 0:00,David,David,Cancelled,217314,478434,Client A
+P0110,Data Warehouse,9/23/2023 0:00,1/26/2024 0:00,Eve,"Bob, Charlie",Active,104236,398273,Client C
+P0114,Blockchain Integration,8/2/2022 0:00,2/10/2023 0:00,David,"Eve, Frank",Active,451167,338932,Client D
+P0115,App Development,9/25/2022 0:00,3/6/2024 0:00,Eve,Eve,Completed,441298,259185,Client C
+P0120,Cloud Migration,7/14/2022 0:00,5/22/2023 0:00,Eve,Eve,Completed,527817,603776,Client B
+P0122,IoT Automation,12/23/2022 0:00,9/18/2023 0:00,Eve,"Eve, Frank, David",Cancelled,775180,500347,Client A
+P0125,Data Warehouse,2/9/2023 0:00,5/20/2023 0:00,Alice,"David, Eve, Charlie",Completed,100625,55732,Client E
+P0126,Blockchain Integration,6/21/2023 0:00,4/28/2022 0:00,Bob,"Charlie, Alice",Completed,629018,753647,Client E
+P0129,App Development,8/18/2024 0:00,6/2/2024 0:00,Charlie,"Frank, Eve",Cancelled,421447,899206,Client B
+P0131,Data Warehouse,7/7/2024 0:00,1/29/2023 0:00,David,"David, Alice",Completed,319408,508725,Client D
+P0132,IoT Automation,7/13/2022 0:00,10/7/2023 0:00,Frank,"David, Charlie",Active,201279,508027,Client B
+P0139,Blockchain Integration,12/29/2022 0:00,4/7/2024 0:00,Frank,"Eve, Frank",Cancelled,224731,484953,Client B
+P0146,IoT Automation,5/3/2023 0:00,3/11/2022 0:00,Charlie,Eve,Cancelled,722158,314573,Client C
+P0154,App Development,9/20/2023 0:00,8/14/2023 0:00,David,"Charlie, David, Frank",Active,750360,332650,Client E
+P0162,AI Software,1/13/2023 0:00,5/4/2023 0:00,Eve,Frank,Active,198572,571043,Client E
+P0165,Data Warehouse,8/14/2024 0:00,8/26/2022 0:00,Bob,Alice,Cancelled,136010,719915,Client A
+P0166,IoT Automation,11/18/2023 0:00,5/15/2024 0:00,David,Bob,Cancelled,679470,118281,Client D
+P0171,Blockchain Integration,1/4/2024 0:00,9/7/2023 0:00,Charlie,Frank,Active,918764,480846,Client C
+P0175,IoT Automation,12/18/2022 0:00,4/8/2023 0:00,Eve,"Frank, Alice, David",Active,692497,648755,Client E
+P0179,App Development,5/20/2024 0:00,2/25/2024 0:00,Bob,"Charlie, Eve",Cancelled,614954,772347,Client D
+P0180,AI Software,11/14/2023 0:00,7/7/2023 0:00,Eve,"Frank, Bob, David",Completed,573668,752264,Client B
+P0183,IoT Automation,12/11/2022 0:00,3/29/2023 0:00,Bob,"Alice, David, Charlie",Completed,547460,517736,Client A
+P0185,App Development,3/27/2022 0:00,8/9/2023 0:00,Charlie,"Frank, Bob",Completed,180552,326943,Client B
+P0186,Blockchain Integration,10/28/2023 0:00,8/9/2022 0:00,Frank,Charlie,Cancelled,609867,501712,Client B
+P0187,Blockchain Integration,12/8/2023 0:00,8/23/2022 0:00,Frank,Frank,Completed,506117,742398,Client D
+P0188,Data Warehouse,12/19/2022 0:00,3/1/2023 0:00,Eve,"Alice, Frank, Bob",Active,945993,274754,Client D
+P0198,Data Warehouse,3/28/2023 0:00,1/29/2023 0:00,Eve,Bob,Completed,559378,888007,Client C
+P0200,Blockchain Integration,1/1/2023 0:00,7/7/2023 0:00,Alice,"Frank, Charlie, David",Cancelled,121535,785908,Client E
+P0202,Blockchain Integration,11/19/2023 0:00,8/16/2023 0:00,Charlie,"David, Bob, Alice",Active,669884,578961,Client B
+P0205,AI Software,12/4/2022 0:00,5/4/2024 0:00,Alice,"Bob, Eve, David",Active,836150,137556,Client C
+P0209,App Development,9/25/2022 0:00,11/23/2022 0:00,Charlie,Charlie,Cancelled,520821,743618,Client C
+P0210,Blockchain Integration,11/19/2022 0:00,7/8/2023 0:00,David,"David, Eve",Active,355047,124039,Client A
+P0212,IoT Automation,4/30/2023 0:00,8/28/2022 0:00,Frank,Frank,Completed,269864,368886,Client A
+P0215,Blockchain Integration,12/4/2022 0:00,1/29/2024 0:00,Bob,Eve,Cancelled,672437,423346,Client D
+P0217,App Development,5/19/2023 0:00,10/21/2022 0:00,Alice,"Alice, Bob",Active,928373,648828,Client E
+P0218,App Development,10/16/2023 0:00,7/1/2023 0:00,Bob,Charlie,Cancelled,710397,581468,Client A
+P0219,Cloud Migration,10/2/2024 0:00,7/27/2024 0:00,Bob,"David, Bob",Active,686852,62094,Client D
+P0225,IoT Automation,2/23/2022 0:00,9/11/2023 0:00,David,"David, Alice, Eve",Cancelled,218229,448720,Client A
+P0227,Cloud Migration,6/11/2023 0:00,10/12/2022 0:00,Bob,"David, Frank, Charlie",Cancelled,109287,145948,Client C
+P0230,Data Warehouse,6/2/2024 0:00,6/21/2022 0:00,Bob,"Charlie, Eve",Cancelled,940145,573957,Client C
+P0238,Data Warehouse,8/23/2022 0:00,9/8/2022 0:00,Eve,"Bob, Charlie",Cancelled,897460,550313,Client B
+P0242,Blockchain Integration,4/30/2022 0:00,5/31/2024 0:00,Frank,"Eve, Charlie",Active,533595,878868,Client D
+P0244,Blockchain Integration,9/12/2024 0:00,4/13/2023 0:00,Bob,Bob,Cancelled,968195,167957,Client C
+P0251,AI Software,2/17/2023 0:00,7/13/2024 0:00,Bob,"Bob, Alice, Charlie",Active,335637,445718,Client E
+P0258,IoT Automation,8/23/2022 0:00,11/1/2023 0:00,Frank,"Alice, Charlie",Completed,178701,786111,Client A
+P0262,Blockchain Integration,5/4/2024 0:00,2/9/2024 0:00,Alice,"David, Frank, Charlie",Cancelled,252634,500162,Client E
+P0270,Blockchain Integration,2/20/2024 0:00,11/19/2023 0:00,Bob,David,Cancelled,504848,304969,Client D
+P0271,AI Software,7/24/2023 0:00,8/28/2022 0:00,David,"Frank, Bob",Completed,980287,476383,Client A
+P0272,AI Software,2/3/2023 0:00,4/10/2024 0:00,David,"David, Charlie",Completed,829022,623268,Client A
+P0273,IoT Automation,1/3/2024 0:00,7/29/2022 0:00,Alice,"Bob, Charlie, Alice",Completed,815321,576943,Client B
+P0288,Data Warehouse,10/10/2023 0:00,5/31/2022 0:00,Alice,Alice,Cancelled,726797,843445,Client B
+P0294,Cloud Migration,8/25/2022 0:00,9/27/2024 0:00,Bob,Bob,Cancelled,847237,548189,Client C
+P0295,Blockchain Integration,1/6/2024 0:00,1/12/2024 0:00,Eve,"Eve, Charlie, Alice",Active,436742,50445,Client E
+P0296,Cloud Migration,8/16/2022 0:00,10/8/2022 0:00,Eve,Alice,Cancelled,585166,310702,Client D
+P0302,Cloud Migration,7/7/2022 0:00,12/24/2022 0:00,Eve,Alice,Completed,778929,341941,Client A
+P0303,App Development,3/30/2024 0:00,11/11/2024 0:00,Frank,"Bob, Alice, Frank",Completed,493214,569665,Client D
+P0310,Blockchain Integration,1/3/2023 0:00,8/6/2024 0:00,Charlie,"David, Alice, Charlie",Cancelled,512175,116248,Client D
+P0312,Cloud Migration,5/9/2022 0:00,10/25/2023 0:00,Bob,"David, Frank, Eve",Completed,367188,833833,Client A
+P0314,Cloud Migration,4/2/2023 0:00,2/2/2023 0:00,Charlie,Charlie,Cancelled,677392,784207,Client E
+P0321,Cloud Migration,6/15/2024 0:00,2/28/2023 0:00,Frank,Frank,Cancelled,225246,334686,Client C
+P0325,Cloud Migration,5/9/2024 0:00,3/27/2023 0:00,Eve,"Frank, David",Cancelled,390828,392305,Client A
+P0326,IoT Automation,1/15/2024 0:00,11/26/2023 0:00,Alice,"Frank, Charlie, David",Completed,661221,463683,Client D
+P0329,IoT Automation,5/14/2023 0:00,8/25/2024 0:00,Frank,Frank,Active,543824,697397,Client B
+P0330,IoT Automation,5/23/2024 0:00,3/15/2023 0:00,Eve,Eve,Active,792371,311070,Client E
+P0331,Cloud Migration,6/23/2022 0:00,3/8/2023 0:00,Charlie,"Charlie, Bob",Active,110334,660029,Client D
+P0335,Blockchain Integration,4/2/2022 0:00,6/8/2023 0:00,David,"Bob, Alice, Frank",Cancelled,732984,772142,Client B
+P0338,IoT Automation,7/17/2023 0:00,9/9/2022 0:00,David,David,Cancelled,259072,378786,Client B
+P0340,AI Software,10/29/2023 0:00,10/21/2023 0:00,Frank,Frank,Active,899383,693508,Client E
+P0347,App Development,10/4/2023 0:00,4/17/2023 0:00,Frank,"Charlie, Frank",Active,230614,123802,Client A
+P0349,Blockchain Integration,9/21/2023 0:00,9/30/2022 0:00,Bob,"Charlie, Bob",Completed,331707,114872,Client E
+P0354,AI Software,11/29/2023 0:00,3/24/2022 0:00,Alice,Alice,Completed,556333,793814,Client A
+P0364,App Development,9/11/2024 0:00,2/26/2022 0:00,Eve,"David, Bob, Charlie",Cancelled,615395,99239,Client E
+P0367,AI Software,6/24/2022 0:00,7/19/2022 0:00,David,"Charlie, Bob, Alice",Completed,745543,873674,Client B
+P0371,App Development,5/31/2024 0:00,3/20/2024 0:00,Bob,"Charlie, Bob, Frank",Completed,832880,506973,Client E
+P0375,Blockchain Integration,7/19/2023 0:00,9/24/2024 0:00,Bob,"Alice, David, Charlie",Cancelled,360849,514619,Client C
+P0376,IoT Automation,1/29/2023 0:00,10/22/2022 0:00,Bob,"Eve, Frank, Bob",Cancelled,342111,80601,Client B
+P0377,IoT Automation,10/15/2024 0:00,5/24/2024 0:00,Bob,"Frank, Eve",Active,592529,870528,Client C
+P0387,Data Warehouse,10/7/2022 0:00,7/22/2024 0:00,Frank,"David, Frank",Active,465145,489074,Client C
+P0388,AI Software,2/5/2023 0:00,10/20/2024 0:00,Bob,"Bob, Frank",Active,484402,353238,Client D
+P0390,Cloud Migration,8/14/2023 0:00,9/15/2024 0:00,Bob,"Eve, Frank, Alice",Active,276728,400226,Client E
+P0391,App Development,6/29/2024 0:00,2/25/2022 0:00,Bob,"David, Alice",Completed,713935,413880,Client C
+P0394,AI Software,2/20/2024 0:00,6/27/2023 0:00,Charlie,Charlie,Completed,499973,496164,Client E
+P0396,Blockchain Integration,6/18/2024 0:00,3/3/2024 0:00,David,"Alice, Bob",Cancelled,841452,209546,Client E
+P0398,Data Warehouse,2/19/2024 0:00,11/10/2022 0:00,David,Bob,Cancelled,679678,498981,Client E
+P0402,Blockchain Integration,1/22/2023 0:00,3/14/2024 0:00,David,"David, Eve",Active,248514,693063,Client B
+P0406,Cloud Migration,6/17/2022 0:00,6/25/2022 0:00,Frank,"Charlie, Eve",Cancelled,170022,154768,Client E
+P0408,IoT Automation,5/28/2023 0:00,11/19/2022 0:00,David,"Frank, Charlie",Cancelled,700424,577811,Client E
+P0410,App Development,4/21/2023 0:00,3/10/2024 0:00,David,David,Active,877094,592186,Client A
+P0417,IoT Automation,5/26/2024 0:00,10/3/2024 0:00,Charlie,David,Completed,382113,635975,Client D
+P0421,AI Software,1/30/2023 0:00,8/23/2024 0:00,Bob,"Bob, Charlie, Frank",Cancelled,287615,873754,Client C
+P0422,AI Software,10/25/2023 0:00,11/11/2024 0:00,Alice,Bob,Completed,295881,890867,Client E
+P0424,App Development,3/16/2023 0:00,1/13/2024 0:00,Bob,Bob,Completed,280139,478394,Client C
+P0425,Blockchain Integration,8/21/2023 0:00,3/16/2024 0:00,Alice,Alice,Completed,638177,222081,Client C
+P0432,Blockchain Integration,8/12/2024 0:00,3/26/2024 0:00,Eve,"Alice, David",Active,701740,500975,Client B
+P0433,IoT Automation,5/1/2023 0:00,2/7/2023 0:00,Eve,Eve,Completed,584867,667340,Client E
+P0440,AI Software,9/17/2023 0:00,3/21/2024 0:00,Bob,Bob,Completed,654584,778462,Client A
+P0443,Data Warehouse,9/6/2024 0:00,11/22/2022 0:00,Charlie,"Eve, Charlie",Cancelled,523518,838971,Client E
+P0448,IoT Automation,9/16/2022 0:00,10/16/2022 0:00,David,"David, Bob",Active,888142,733888,Client A
+P0456,App Development,12/18/2022 0:00,7/2/2022 0:00,Alice,"Frank, Alice, Eve",Cancelled,501156,816479,Client C
+P0459,AI Software,8/22/2022 0:00,12/30/2023 0:00,Charlie,"Alice, Frank, David",Cancelled,886758,138989,Client A
+P0462,App Development,9/7/2022 0:00,9/13/2022 0:00,Alice,"Frank, Charlie",Completed,571796,357725,Client B
+P0463,AI Software,11/15/2023 0:00,7/31/2024 0:00,David,"Frank, Charlie, Bob",Cancelled,928924,761477,Client A
+P0466,App Development,10/26/2023 0:00,9/30/2023 0:00,Charlie,Charlie,Completed,249228,632052,Client E
+P0469,Blockchain Integration,7/10/2022 0:00,1/9/2024 0:00,Alice,"Eve, Frank, Bob",Completed,518632,420808,Client C
+P0474,Data Warehouse,11/19/2022 0:00,3/13/2023 0:00,David,"Alice, David",Cancelled,771112,317313,Client E
+P0476,IoT Automation,11/8/2022 0:00,12/20/2023 0:00,Bob,"Charlie, Alice",Completed,467583,455393,Client B
+P0486,Blockchain Integration,7/10/2023 0:00,8/19/2022 0:00,Alice,Eve,Cancelled,274006,826267,Client B
+P0493,Data Warehouse,4/27/2022 0:00,4/3/2023 0:00,David,David,Cancelled,450267,752573,Client B
+P0495,IoT Automation,12/2/2023 0:00,10/28/2024 0:00,Charlie,"Alice, Frank",Completed,442406,106085,Client A
+P0496,IoT Automation,3/10/2022 0:00,5/1/2024 0:00,Charlie,Charlie,Active,153389,270479,Client A
+P0498,Data Warehouse,5/12/2023 0:00,8/17/2024 0:00,Eve,"David, Eve",Cancelled,559693,548190,Client E
+P0499,Blockchain Integration,9/9/2023 0:00,7/24/2022 0:00,Eve,"Frank, Alice",Active,554461,278005,Client B
+P0502,Cloud Migration,6/24/2023 0:00,5/31/2024 0:00,Eve,"Bob, Eve, Frank",Active,693861,732529,Client C
+P0503,AI Software,2/4/2024 0:00,9/3/2023 0:00,Eve,"Charlie, David",Completed,260778,889335,Client B
+P0505,Blockchain Integration,9/10/2022 0:00,10/25/2023 0:00,Eve,Alice,Completed,848967,674695,Client C
+P0506,Blockchain Integration,12/28/2022 0:00,5/27/2024 0:00,Frank,"David, Eve, Charlie",Active,857641,612698,Client A
+P0507,Cloud Migration,4/8/2024 0:00,5/4/2022 0:00,Frank,"Bob, Frank, David",Completed,250944,576740,Client B
+P0512,AI Software,9/2/2024 0:00,1/22/2024 0:00,Bob,Charlie,Active,239399,603327,Client E
+P0516,Data Warehouse,1/15/2024 0:00,9/17/2023 0:00,Alice,"Alice, David",Cancelled,695787,379779,Client E
+P0520,Data Warehouse,7/31/2023 0:00,10/31/2024 0:00,Frank,Frank,Completed,378404,316121,Client C
+P0521,IoT Automation,4/24/2022 0:00,9/11/2022 0:00,Alice,Alice,Completed,925242,88198,Client A
+P0524,IoT Automation,7/28/2023 0:00,4/20/2023 0:00,Eve,"David, Bob",Active,617453,449862,Client B
+P0526,Data Warehouse,9/21/2023 0:00,10/24/2024 0:00,David,"Bob, Frank",Active,459385,263631,Client B
+P0537,Data Warehouse,7/23/2022 0:00,10/27/2022 0:00,Charlie,"Frank, Bob",Active,337186,589685,Client A
+P0540,Cloud Migration,8/13/2023 0:00,8/26/2022 0:00,Charlie,"Bob, Eve",Completed,415169,177010,Client E
+P0542,App Development,8/7/2023 0:00,7/8/2022 0:00,Eve,"Eve, Alice, Bob",Active,153777,244106,Client D
+P0545,App Development,4/19/2024 0:00,12/6/2022 0:00,Alice,"Frank, David, Eve",Completed,255159,454687,Client B
+P0546,Blockchain Integration,4/11/2023 0:00,3/25/2023 0:00,Alice,"David, Eve, Alice",Active,985510,447832,Client C
+P0549,IoT Automation,7/7/2024 0:00,6/27/2024 0:00,Charlie,"Eve, Bob",Completed,831257,635219,Client A
+P0550,Cloud Migration,7/31/2024 0:00,5/11/2024 0:00,David,"Charlie, Eve",Active,480625,759608,Client A
+P0551,AI Software,11/20/2023 0:00,8/13/2022 0:00,Frank,Frank,Cancelled,519273,454995,Client C
+P0552,App Development,12/14/2022 0:00,7/4/2023 0:00,Eve,"David, Eve",Active,447302,624348,Client E
+P0557,IoT Automation,10/17/2022 0:00,11/19/2024 0:00,Alice,"Alice, Charlie, Frank",Cancelled,159667,629896,Client C
+P0558,IoT Automation,8/11/2023 0:00,3/2/2023 0:00,Charlie,Charlie,Completed,954653,384836,Client D
+P0559,Blockchain Integration,5/3/2024 0:00,7/9/2024 0:00,Frank,Alice,Active,534344,722297,Client B
+P0562,AI Software,10/27/2023 0:00,9/20/2024 0:00,Alice,"Frank, Charlie",Cancelled,347130,339788,Client D
+P0564,Data Warehouse,9/7/2024 0:00,4/25/2022 0:00,Bob,Bob,Completed,515597,627064,Client B
+P0568,AI Software,10/25/2023 0:00,11/3/2023 0:00,David,David,Cancelled,452438,759132,Client B
+P0575,Data Warehouse,8/23/2024 0:00,7/10/2023 0:00,Eve,"David, Eve, Charlie",Completed,196799,342497,Client B
+P0576,Cloud Migration,8/5/2024 0:00,5/25/2024 0:00,Charlie,Eve,Active,932138,828247,Client D
+P0577,IoT Automation,12/3/2022 0:00,4/24/2023 0:00,Eve,Bob,Active,779445,508788,Client E
+P0578,Data Warehouse,1/7/2023 0:00,4/13/2022 0:00,Frank,"Eve, Frank",Cancelled,153852,397505,Client A
+P0581,Blockchain Integration,5/14/2023 0:00,10/29/2023 0:00,Eve,"Alice, Charlie",Completed,984557,750912,Client B
+P0582,Cloud Migration,7/23/2022 0:00,12/15/2022 0:00,Eve,"Frank, Charlie",Completed,818968,331723,Client D
+P0587,Blockchain Integration,5/27/2024 0:00,10/17/2024 0:00,Charlie,"Eve, Alice, David",Cancelled,140833,788281,Client B
+P0589,App Development,2/6/2023 0:00,8/14/2022 0:00,Alice,Charlie,Completed,744206,51662,Client E
+P0591,Cloud Migration,8/12/2022 0:00,8/5/2024 0:00,Eve,Eve,Cancelled,927895,468196,Client D
+P0594,Data Warehouse,6/13/2024 0:00,12/28/2023 0:00,David,David,Active,722193,598187,Client C
+P0597,Cloud Migration,8/15/2022 0:00,1/3/2023 0:00,Bob,Bob,Completed,245349,490077,Client B
+P0600,IoT Automation,10/16/2023 0:00,3/9/2024 0:00,David,"David, Frank, Eve",Completed,913773,645033,Client D
+P0601,Data Warehouse,9/24/2023 0:00,11/27/2023 0:00,Bob,"Alice, Charlie, David",Active,200789,474942,Client C
+P0602,Cloud Migration,3/20/2023 0:00,8/1/2024 0:00,Eve,"Charlie, David, Bob",Completed,334662,686415,Client C
+P0603,Cloud Migration,9/17/2024 0:00,10/1/2024 0:00,Alice,Eve,Completed,133589,66175,Client A
+P0604,Cloud Migration,2/9/2023 0:00,10/31/2022 0:00,Charlie,"David, Bob",Cancelled,455108,616163,Client D
+P0606,Blockchain Integration,11/25/2022 0:00,7/4/2023 0:00,Charlie,Bob,Active,574489,716138,Client A
+P0608,Cloud Migration,10/7/2023 0:00,8/8/2024 0:00,Alice,"Charlie, Alice, Bob",Cancelled,785233,765263,Client E
+P0614,App Development,6/2/2024 0:00,1/23/2024 0:00,Charlie,Charlie,Cancelled,262759,647006,Client C
+P0621,IoT Automation,2/8/2024 0:00,8/16/2024 0:00,Alice,David,Completed,821132,425921,Client B
+P0629,Cloud Migration,3/30/2022 0:00,5/9/2024 0:00,David,"Frank, Alice, David",Active,481901,195961,Client C
+P0635,App Development,10/31/2022 0:00,5/7/2023 0:00,Frank,Charlie,Completed,790308,194671,Client B
+P0636,Blockchain Integration,7/22/2023 0:00,6/15/2024 0:00,Eve,"Frank, Alice, Bob",Cancelled,921794,453803,Client E
+P0640,Cloud Migration,11/10/2022 0:00,2/18/2023 0:00,Alice,"Bob, Eve, Frank",Completed,430079,628211,Client C
+P0645,IoT Automation,6/4/2024 0:00,7/24/2024 0:00,Frank,Alice,Active,610545,682457,Client B
+P0647,AI Software,8/6/2024 0:00,5/18/2022 0:00,David,Bob,Cancelled,247158,128064,Client C
+P0648,Cloud Migration,7/16/2023 0:00,8/18/2024 0:00,David,"David, Alice, Bob",Completed,733257,791482,Client B
+P0651,IoT Automation,10/21/2022 0:00,11/7/2023 0:00,Alice,"Frank, Charlie, David",Active,140316,188297,Client D
+P0657,AI Software,11/28/2023 0:00,1/6/2023 0:00,Alice,Alice,Completed,311511,198411,Client C
+P0660,Cloud Migration,10/25/2022 0:00,3/1/2022 0:00,Alice,Alice,Completed,629511,68939,Client E
+P0661,IoT Automation,8/15/2024 0:00,4/1/2024 0:00,Alice,"Charlie, Bob",Active,509668,102199,Client B
+P0663,App Development,4/14/2023 0:00,6/3/2023 0:00,Frank,Frank,Completed,741963,788330,Client E
+P0664,App Development,12/28/2023 0:00,5/21/2023 0:00,Frank,"David, Charlie, Bob",Completed,907101,479925,Client E
+P0669,App Development,10/23/2022 0:00,11/19/2022 0:00,Frank,Frank,Cancelled,578608,577537,Client C
+P0672,Cloud Migration,11/3/2022 0:00,12/27/2022 0:00,Bob,Bob,Cancelled,930302,343599,Client A
+P0676,Cloud Migration,10/16/2023 0:00,6/1/2024 0:00,Eve,"Frank, David",Completed,430489,772308,Client D
+P0686,Cloud Migration,9/24/2024 0:00,8/22/2024 0:00,Alice,"David, Frank",Completed,102359,145909,Client E
+P0687,AI Software,10/17/2023 0:00,10/10/2023 0:00,Eve,"David, Eve",Completed,179802,439862,Client A
+P0691,Data Warehouse,6/30/2023 0:00,2/20/2023 0:00,Frank,"Frank, Charlie, David",Cancelled,868344,738848,Client A
+P0696,Blockchain Integration,4/29/2022 0:00,4/2/2022 0:00,Charlie,Bob,Completed,793411,882511,Client E
+P0702,IoT Automation,10/15/2022 0:00,10/24/2023 0:00,Bob,Bob,Cancelled,818362,54827,Client E
+P0703,Blockchain Integration,6/18/2023 0:00,4/14/2023 0:00,Alice,"Bob, Alice, Eve",Active,444745,318881,Client D
+P0707,Data Warehouse,8/28/2023 0:00,12/10/2022 0:00,Eve,Eve,Completed,277233,795932,Client B
+P0710,Cloud Migration,8/6/2024 0:00,9/30/2024 0:00,Bob,"Frank, Bob",Active,314007,645053,Client D
+P0714,Cloud Migration,8/6/2024 0:00,1/14/2024 0:00,Alice,Alice,Cancelled,825150,674089,Client A
+P0718,App Development,5/10/2023 0:00,7/5/2024 0:00,Alice,Alice,Active,103489,881553,Client A
+P0719,Cloud Migration,11/3/2023 0:00,10/20/2022 0:00,David,Frank,Cancelled,169187,198112,Client E
+P0721,AI Software,5/5/2022 0:00,11/4/2022 0:00,Bob,"David, Eve",Active,383169,614574,Client E
+P0724,Cloud Migration,4/5/2023 0:00,4/29/2022 0:00,Eve,Charlie,Active,903208,87247,Client B
+P0725,Cloud Migration,1/4/2023 0:00,10/23/2022 0:00,Frank,Frank,Cancelled,660560,97609,Client E
+P0727,IoT Automation,4/17/2024 0:00,8/2/2022 0:00,Frank,Frank,Active,744209,690442,Client A
+P0730,App Development,8/4/2023 0:00,6/20/2023 0:00,Charlie,David,Completed,506722,273698,Client B
+P0731,Blockchain Integration,5/25/2023 0:00,9/12/2022 0:00,Charlie,Charlie,Cancelled,671793,871739,Client D
+P0735,Cloud Migration,6/22/2022 0:00,7/16/2022 0:00,Frank,"Alice, Frank",Active,903716,208737,Client B
+P0740,IoT Automation,5/5/2024 0:00,7/30/2022 0:00,Alice,"Alice, Charlie",Cancelled,601943,253168,Client B
+P0741,IoT Automation,5/8/2024 0:00,10/10/2023 0:00,Alice,"Charlie, David, Bob",Active,894101,279668,Client A
+P0751,App Development,1/4/2024 0:00,10/21/2023 0:00,David,"Alice, Bob, Charlie",Active,788941,517157,Client A
+P0753,IoT Automation,8/1/2024 0:00,9/13/2022 0:00,Bob,"Alice, Bob, David",Cancelled,908283,462586,Client A
+P0754,AI Software,2/7/2024 0:00,6/26/2022 0:00,Bob,Bob,Completed,437865,699985,Client D
+P0755,AI Software,4/2/2024 0:00,4/3/2024 0:00,Eve,Eve,Cancelled,308785,133950,Client E
+P0759,Cloud Migration,6/14/2024 0:00,9/26/2022 0:00,Bob,Alice,Active,490633,617114,Client B
+P0761,AI Software,12/15/2023 0:00,1/27/2023 0:00,Frank,Frank,Cancelled,107799,94569,Client C
+P0768,Data Warehouse,2/22/2023 0:00,11/28/2023 0:00,David,"Bob, Charlie",Completed,861165,866745,Client D
+P0772,Data Warehouse,4/28/2024 0:00,8/7/2024 0:00,David,"Eve, David, Bob",Active,427216,894566,Client B
+P0774,Cloud Migration,1/20/2023 0:00,3/6/2022 0:00,Charlie,"Bob, Frank, Alice",Cancelled,211751,106605,Client C
+P0776,IoT Automation,4/11/2022 0:00,3/22/2023 0:00,Eve,"Frank, Bob",Active,243570,74948,Client D
+P0778,AI Software,11/10/2023 0:00,7/15/2023 0:00,Bob,"David, Frank",Cancelled,260470,295165,Client E
+P0781,IoT Automation,3/23/2023 0:00,2/10/2024 0:00,David,"David, Alice, Bob",Completed,481456,50681,Client B
+P0784,AI Software,5/20/2022 0:00,6/19/2024 0:00,Charlie,Bob,Active,127417,873062,Client E
+P0788,AI Software,1/3/2023 0:00,1/13/2023 0:00,Charlie,Charlie,Cancelled,992935,846442,Client B
+P0795,AI Software,3/15/2023 0:00,4/14/2023 0:00,Eve,"David, Charlie, Frank",Cancelled,389946,666772,Client C
+P0796,App Development,8/21/2023 0:00,12/4/2023 0:00,Bob,Alice,Active,897582,714499,Client A
+P0801,Data Warehouse,4/24/2022 0:00,7/8/2022 0:00,Alice,"Frank, David, Charlie",Completed,679198,250553,Client A
+P0810,AI Software,7/17/2022 0:00,12/12/2023 0:00,Eve,Frank,Completed,716881,351828,Client E
+P0814,App Development,7/14/2023 0:00,12/16/2023 0:00,Frank,Frank,Active,212083,657102,Client B
+P0820,AI Software,8/22/2023 0:00,9/8/2024 0:00,David,Eve,Completed,761482,125506,Client D
+P0822,IoT Automation,7/3/2023 0:00,6/15/2022 0:00,Eve,Eve,Cancelled,842561,148351,Client B
+P0827,Data Warehouse,12/5/2023 0:00,9/27/2023 0:00,Alice,"Frank, Bob, Charlie",Completed,386590,836476,Client E
+P0828,IoT Automation,5/22/2022 0:00,5/20/2022 0:00,David,"Eve, Frank, Bob",Completed,865304,441957,Client C
+P0846,Cloud Migration,7/18/2023 0:00,11/5/2024 0:00,Eve,Eve,Cancelled,803619,371657,Client C
+P0854,IoT Automation,5/20/2022 0:00,3/28/2023 0:00,Charlie,Charlie,Cancelled,783517,61591,Client E
+P0856,IoT Automation,8/19/2023 0:00,1/19/2024 0:00,Eve,Eve,Completed,114428,447916,Client A
+P0857,Data Warehouse,2/9/2024 0:00,8/11/2023 0:00,Eve,Bob,Completed,457938,186323,Client D
+P0859,App Development,4/11/2022 0:00,9/2/2023 0:00,Bob,"Alice, David",Active,779438,531693,Client E
+P0861,Cloud Migration,7/10/2022 0:00,5/11/2022 0:00,Frank,"Eve, Alice, David",Completed,531097,708229,Client A
+P0862,Cloud Migration,11/20/2023 0:00,10/13/2022 0:00,Charlie,Charlie,Completed,644070,650500,Client B
+P0864,App Development,3/9/2023 0:00,4/24/2022 0:00,Eve,"Frank, Eve, Alice",Completed,999422,282073,Client D
+P0865,Data Warehouse,10/13/2022 0:00,10/31/2024 0:00,Frank,Frank,Cancelled,316826,149875,Client B
+P0867,Blockchain Integration,4/9/2024 0:00,4/17/2024 0:00,David,Eve,Completed,999797,83500,Client A
+P0870,Cloud Migration,5/29/2023 0:00,1/23/2023 0:00,Alice,"Frank, Bob",Completed,364357,98648,Client E
+P0872,Cloud Migration,6/30/2023 0:00,3/3/2024 0:00,Alice,"Charlie, Bob",Cancelled,164387,617294,Client E
+P0878,AI Software,7/20/2024 0:00,9/20/2023 0:00,Alice,Alice,Cancelled,285660,280628,Client D
+P0889,IoT Automation,1/6/2024 0:00,2/26/2023 0:00,Bob,"Alice, Charlie",Active,609505,464440,Client A
+P0895,AI Software,12/2/2022 0:00,6/3/2023 0:00,Charlie,Charlie,Cancelled,641569,529800,Client A
+P0897,IoT Automation,1/2/2024 0:00,1/22/2024 0:00,David,Bob,Active,166026,318261,Client C
+P0900,App Development,6/6/2022 0:00,4/9/2022 0:00,David,"David, Charlie",Completed,356161,51150,Client D
+P0901,Blockchain Integration,7/2/2024 0:00,3/24/2024 0:00,Eve,David,Cancelled,800917,170098,Client A
+P0908,AI Software,8/30/2022 0:00,11/10/2022 0:00,Eve,David,Active,907074,687528,Client C
+P0909,AI Software,9/4/2023 0:00,5/8/2022 0:00,David,David,Completed,695539,229219,Client B
+P0912,Cloud Migration,9/6/2023 0:00,8/2/2023 0:00,Bob,David,Active,855898,597622,Client A
+P0914,Blockchain Integration,3/17/2023 0:00,6/8/2022 0:00,Frank,"David, Alice",Cancelled,385151,769737,Client C
+P0916,IoT Automation,4/4/2024 0:00,8/22/2022 0:00,Bob,"Charlie, David",Active,982806,860342,Client B
+P0918,Data Warehouse,4/3/2023 0:00,8/14/2024 0:00,Alice,Alice,Active,200757,439470,Client C
+P0921,App Development,9/21/2023 0:00,1/10/2023 0:00,Alice,"Alice, David, Bob",Active,999464,378149,Client A
+P0922,Data Warehouse,5/23/2023 0:00,12/19/2023 0:00,Frank,"Charlie, Frank",Cancelled,594281,536277,Client E
+P0923,Cloud Migration,7/17/2023 0:00,8/29/2023 0:00,David,Frank,Cancelled,658352,543297,Client C
+P0924,IoT Automation,8/30/2022 0:00,2/19/2024 0:00,Frank,Frank,Completed,338632,774284,Client C
+P0931,Data Warehouse,6/21/2024 0:00,9/15/2023 0:00,David,Eve,Completed,874494,276437,Client B
+P0935,IoT Automation,10/4/2023 0:00,3/30/2022 0:00,Eve,"Frank, Charlie, Eve",Active,324954,552888,Client C
+P0936,Blockchain Integration,7/30/2022 0:00,8/5/2024 0:00,Bob,"Frank, Alice",Active,201561,892746,Client A
+P0942,Blockchain Integration,5/26/2024 0:00,6/2/2022 0:00,David,"Alice, Bob, David",Completed,198023,549931,Client D
+P0943,Blockchain Integration,3/31/2024 0:00,2/27/2022 0:00,Charlie,Charlie,Completed,348207,106596,Client E
+P0945,IoT Automation,5/18/2023 0:00,7/27/2024 0:00,Bob,Bob,Completed,929527,612723,Client E
+P0946,Cloud Migration,9/5/2023 0:00,8/26/2023 0:00,David,"Frank, Alice, David",Completed,882675,289744,Client A
+P0951,App Development,6/2/2024 0:00,4/9/2023 0:00,Frank,Frank,Active,106665,816658,Client E
+P0953,AI Software,11/14/2023 0:00,1/4/2023 0:00,Frank,Frank,Cancelled,326868,834096,Client C
+P0954,Blockchain Integration,7/20/2022 0:00,6/7/2023 0:00,Eve,Eve,Cancelled,446810,491933,Client A
+P0955,Data Warehouse,6/23/2023 0:00,12/3/2022 0:00,Charlie,"Charlie, Eve, Frank",Cancelled,628168,427384,Client D
+P0956,Blockchain Integration,5/8/2023 0:00,9/3/2023 0:00,David,"Eve, Charlie, Bob",Cancelled,703638,795055,Client A
+P0957,Data Warehouse,7/11/2023 0:00,3/10/2024 0:00,Eve,"Charlie, Frank, Alice",Cancelled,547852,60703,Client B
+P0958,Blockchain Integration,5/21/2024 0:00,1/10/2023 0:00,Eve,Eve,Completed,474236,821457,Client A
+P0964,Data Warehouse,3/12/2022 0:00,6/21/2023 0:00,Frank,"Frank, David, Charlie",Completed,345597,186927,Client E
+P0965,AI Software,2/1/2023 0:00,7/1/2022 0:00,Charlie,Charlie,Cancelled,868019,572219,Client A
+P0978,Cloud Migration,4/24/2023 0:00,1/20/2023 0:00,Alice,Alice,Active,279699,423145,Client E
+P0981,Blockchain Integration,3/24/2023 0:00,11/19/2024 0:00,Alice,"Eve, David",Active,213796,188432,Client B
+P0984,Cloud Migration,7/8/2022 0:00,5/23/2022 0:00,Frank,"Eve, Alice, Frank",Active,213707,677273,Client A
+P0990,App Development,8/21/2023 0:00,9/26/2022 0:00,Frank,"Alice, David, Bob",Cancelled,714067,216850,Client D
+P0992,IoT Automation,12/10/2023 0:00,11/13/2023 0:00,Eve,"Charlie, Alice",Active,723136,873298,Client A
+P0995,Blockchain Integration,10/9/2022 0:00,11/17/2024 0:00,Alice,David,Completed,740626,339308,Client D
+P0998,AI Software,1/15/2023 0:00,6/4/2023 0:00,Alice,Charlie,Completed,869040,135102,Client E
+P0999,Blockchain Integration,9/23/2024 0:00,8/3/2024 0:00,David,"Charlie, Frank, Alice",Completed,976214,262886,Client A
+P1005,App Development,8/18/2022 0:00,5/11/2024 0:00,Charlie,Charlie,Cancelled,156405,462359,Client E
+P1007,App Development,3/9/2023 0:00,4/13/2024 0:00,Charlie,"Bob, David, Eve",Completed,998813,92550,Client A
+P1008,Cloud Migration,3/1/2024 0:00,9/11/2022 0:00,Charlie,"Eve, David, Bob",Cancelled,602605,784450,Client D
+P1017,AI Software,1/25/2023 0:00,5/26/2023 0:00,Eve,Frank,Completed,679104,460534,Client E
+P1019,IoT Automation,6/12/2022 0:00,7/15/2022 0:00,Alice,"David, Charlie, Alice",Cancelled,198080,857623,Client B
+P1020,AI Software,9/27/2023 0:00,4/18/2022 0:00,Frank,"Eve, Alice, David",Completed,448206,285635,Client C
+P1023,Blockchain Integration,11/23/2022 0:00,11/2/2022 0:00,Bob,Eve,Cancelled,978603,445238,Client E
+P1025,IoT Automation,9/18/2024 0:00,3/16/2023 0:00,Alice,Frank,Cancelled,832719,227149,Client E
+P1026,AI Software,3/14/2023 0:00,12/26/2023 0:00,Frank,"David, Frank",Active,643115,504914,Client D
+P1027,Blockchain Integration,2/23/2022 0:00,10/23/2023 0:00,Charlie,"Frank, Alice",Active,563835,173177,Client C
+P1029,Blockchain Integration,6/30/2024 0:00,10/1/2022 0:00,Eve,Eve,Completed,673284,318148,Client A
+P1032,Blockchain Integration,7/27/2023 0:00,8/18/2022 0:00,David,"Charlie, Bob, David",Completed,389733,736341,Client A
+P1035,Cloud Migration,5/18/2024 0:00,6/14/2023 0:00,Eve,"Alice, Bob, David",Cancelled,917939,589688,Client E
+P1044,Data Warehouse,6/26/2023 0:00,2/25/2022 0:00,Bob,"Bob, Eve",Completed,203033,795763,Client A
+P1047,AI Software,9/28/2022 0:00,7/24/2024 0:00,Eve,Eve,Completed,884829,281319,Client D
+P1048,IoT Automation,10/7/2022 0:00,4/24/2023 0:00,Bob,"Alice, Charlie",Cancelled,127096,405294,Client B
+P1049,Blockchain Integration,8/18/2024 0:00,4/15/2023 0:00,Eve,"Eve, Bob",Completed,470500,190486,Client A
+P1051,IoT Automation,6/1/2024 0:00,10/16/2022 0:00,Bob,"Frank, Alice, Charlie",Cancelled,628503,245726,Client C
+P1052,App Development,5/8/2023 0:00,5/23/2023 0:00,Frank,"Eve, Alice, Bob",Cancelled,889084,749096,Client A
+P1055,Cloud Migration,11/23/2023 0:00,10/25/2024 0:00,Bob,Frank,Active,729510,262134,Client A
+P1056,AI Software,12/12/2022 0:00,9/26/2024 0:00,Charlie,"Alice, Bob, Eve",Cancelled,666245,86421,Client A
+P1057,App Development,6/19/2023 0:00,4/29/2024 0:00,Frank,Frank,Active,614996,302586,Client A
+P1067,App Development,10/24/2023 0:00,10/24/2022 0:00,Bob,"Charlie, David",Active,357543,525562,Client E
+P1068,IoT Automation,11/28/2022 0:00,4/4/2024 0:00,David,"Frank, Bob",Completed,767594,796697,Client A
+P1069,App Development,8/22/2022 0:00,4/25/2023 0:00,David,"David, Alice, Charlie",Active,479025,886226,Client E
+P1073,Cloud Migration,1/1/2023 0:00,4/16/2022 0:00,David,David,Active,256524,301583,Client E
+P1077,Cloud Migration,2/4/2023 0:00,11/6/2024 0:00,Bob,"Frank, Alice",Cancelled,961487,577213,Client A
+P1081,Cloud Migration,1/9/2024 0:00,5/1/2022 0:00,Alice,David,Cancelled,155613,235685,Client A
+P1084,App Development,3/4/2024 0:00,10/25/2022 0:00,Alice,Eve,Active,582369,58304,Client A
+P1085,AI Software,3/1/2022 0:00,9/17/2022 0:00,Alice,"Bob, Frank",Completed,924729,698361,Client D
+P1086,Cloud Migration,12/21/2023 0:00,5/5/2024 0:00,Bob,Eve,Active,909884,371230,Client E
+P1087,IoT Automation,8/23/2022 0:00,5/22/2024 0:00,Charlie,Charlie,Cancelled,767151,408288,Client B
+P1091,AI Software,11/14/2022 0:00,10/30/2023 0:00,David,David,Active,149269,466363,Client B
+P1093,Blockchain Integration,6/8/2023 0:00,2/23/2024 0:00,Eve,"Frank, David",Cancelled,654251,301164,Client E
+P1102,Blockchain Integration,1/14/2024 0:00,1/12/2023 0:00,Eve,"Bob, David",Completed,296800,327633,Client C
+P1104,App Development,6/18/2024 0:00,11/19/2023 0:00,Alice,"Frank, Alice, David",Completed,353993,881141,Client E
+P1110,Cloud Migration,9/12/2023 0:00,10/3/2023 0:00,Eve,"Alice, Charlie, Eve",Completed,422433,280697,Client D
+P1114,Cloud Migration,7/20/2022 0:00,4/10/2024 0:00,Eve,Eve,Cancelled,486144,769594,Client A
+P1119,IoT Automation,10/20/2022 0:00,8/21/2023 0:00,Frank,Alice,Active,961968,625650,Client B
+P1120,AI Software,8/1/2024 0:00,2/1/2023 0:00,Charlie,"David, Alice, Frank",Cancelled,762314,634037,Client B
+P1122,Data Warehouse,3/19/2022 0:00,10/10/2024 0:00,Charlie,Frank,Cancelled,491816,739901,Client A
+P1124,IoT Automation,12/19/2022 0:00,8/27/2022 0:00,Alice,"David, Alice, Bob",Completed,926968,580040,Client B
+P1127,IoT Automation,6/18/2023 0:00,5/1/2022 0:00,Eve,Eve,Active,408106,761681,Client A
+P1133,Data Warehouse,3/10/2022 0:00,8/27/2024 0:00,Frank,"Frank, Eve, Charlie",Active,954297,885329,Client E
+P1135,Data Warehouse,11/8/2022 0:00,9/20/2022 0:00,Eve,"David, Alice, Frank",Active,866278,283375,Client C
+P1136,AI Software,1/16/2024 0:00,11/12/2024 0:00,Bob,"David, Bob, Frank",Completed,353171,535280,Client C
+P1137,Cloud Migration,6/2/2024 0:00,4/18/2024 0:00,Eve,Eve,Cancelled,625304,655347,Client E
+P1138,App Development,7/1/2024 0:00,9/19/2022 0:00,Charlie,Charlie,Active,970753,765095,Client B
+P1139,AI Software,1/29/2023 0:00,12/19/2022 0:00,Frank,"Alice, Eve, David",Completed,447656,247447,Client E
+P1141,App Development,2/28/2023 0:00,7/25/2022 0:00,Bob,Alice,Completed,972156,114954,Client B
+P1143,Cloud Migration,2/15/2024 0:00,9/1/2023 0:00,Eve,"Eve, Bob, Alice",Cancelled,139364,709868,Client B
+P1151,Cloud Migration,8/28/2024 0:00,9/8/2024 0:00,Eve,Eve,Completed,843312,557348,Client C
+P1152,AI Software,7/10/2024 0:00,3/31/2024 0:00,Alice,Alice,Active,863836,236836,Client D
+P1154,Data Warehouse,11/17/2023 0:00,2/13/2023 0:00,David,Alice,Completed,194432,385322,Client A
+P1157,Data Warehouse,7/10/2024 0:00,5/22/2023 0:00,Frank,David,Cancelled,925620,287721,Client D
+P1159,IoT Automation,8/23/2022 0:00,9/16/2024 0:00,Bob,Bob,Active,308266,856605,Client E
+P1163,IoT Automation,3/14/2022 0:00,8/3/2024 0:00,Eve,"Frank, Eve, Alice",Cancelled,438711,222468,Client E
+P1164,App Development,5/12/2024 0:00,12/18/2022 0:00,Alice,"Charlie, David",Completed,141115,258099,Client C
+P1171,App Development,6/20/2023 0:00,8/26/2022 0:00,Alice,Charlie,Completed,508253,711827,Client A
+P1173,AI Software,3/30/2024 0:00,6/25/2024 0:00,Alice,"Frank, Charlie, David",Active,526977,184029,Client B
+P1174,Blockchain Integration,9/7/2022 0:00,5/26/2022 0:00,Alice,"David, Eve",Completed,855274,695262,Client C
+P1177,AI Software,1/2/2024 0:00,3/23/2022 0:00,David,"Charlie, Bob, Eve",Active,960198,208100,Client E
+P1179,Blockchain Integration,8/21/2024 0:00,6/28/2024 0:00,Charlie,"Charlie, Frank, Alice",Completed,714560,287858,Client E
+P1182,Data Warehouse,7/21/2024 0:00,5/19/2023 0:00,Alice,"Charlie, Eve, David",Completed,726206,51493,Client B
+P1185,Data Warehouse,2/26/2024 0:00,11/7/2022 0:00,Charlie,"David, Bob",Completed,767768,869838,Client E
+P1193,Cloud Migration,3/22/2022 0:00,7/1/2022 0:00,David,"Charlie, Eve, Alice",Completed,160759,457990,Client C
+P1198,Blockchain Integration,4/23/2024 0:00,3/8/2024 0:00,Bob,Bob,Cancelled,665422,153463,Client C
+P1203,App Development,9/10/2023 0:00,8/9/2024 0:00,David,"Alice, Eve",Completed,304163,635394,Client B
+P1207,IoT Automation,3/6/2022 0:00,1/11/2024 0:00,Charlie,Charlie,Active,351807,748582,Client B
+P1208,Data Warehouse,9/15/2022 0:00,6/16/2024 0:00,Bob,"Alice, Eve",Cancelled,451473,710882,Client C
+P1209,App Development,5/11/2022 0:00,11/12/2023 0:00,David,"Eve, Alice",Active,180472,791816,Client D
+P1213,Blockchain Integration,9/12/2024 0:00,10/24/2022 0:00,Eve,Eve,Active,644924,840365,Client A
+P1214,Cloud Migration,10/11/2024 0:00,2/10/2024 0:00,David,"Frank, David",Completed,883438,202199,Client B
+P1217,Data Warehouse,2/11/2023 0:00,8/4/2023 0:00,David,Charlie,Active,453885,219225,Client E
+P1221,Cloud Migration,1/3/2024 0:00,8/28/2024 0:00,David,"Charlie, Bob",Cancelled,222172,211447,Client A
+P1222,Cloud Migration,7/13/2023 0:00,6/24/2022 0:00,David,"David, Alice, Bob",Active,547234,752916,Client E
+P1225,IoT Automation,5/3/2023 0:00,2/17/2023 0:00,Alice,"Eve, Bob, David",Active,158077,712003,Client A
+P1233,IoT Automation,1/15/2024 0:00,5/13/2023 0:00,Eve,"Bob, David",Cancelled,323193,716298,Client A
+P1237,Cloud Migration,11/17/2023 0:00,5/22/2022 0:00,Alice,"David, Eve",Cancelled,957103,607394,Client E
+P1239,IoT Automation,10/3/2022 0:00,7/5/2024 0:00,Bob,Frank,Cancelled,699828,881502,Client B
+P1242,AI Software,1/31/2024 0:00,11/9/2024 0:00,Alice,David,Completed,775441,380569,Client D
+P1244,App Development,4/13/2024 0:00,3/2/2023 0:00,Frank,"Charlie, Frank",Completed,649969,859679,Client A
+P1245,App Development,10/6/2024 0:00,10/6/2022 0:00,David,David,Cancelled,404507,638969,Client A
+P1249,AI Software,12/23/2023 0:00,3/5/2022 0:00,Charlie,"David, Bob, Charlie",Active,569164,743211,Client B
+P1253,IoT Automation,4/6/2024 0:00,3/27/2024 0:00,Eve,Bob,Active,654285,546528,Client A
+P1256,IoT Automation,5/28/2022 0:00,6/8/2023 0:00,David,Eve,Completed,859019,879165,Client B
+P1257,Blockchain Integration,1/5/2023 0:00,11/16/2023 0:00,David,"David, Frank",Cancelled,207452,429093,Client B
+P1263,IoT Automation,11/20/2023 0:00,2/13/2024 0:00,Alice,"Bob, Frank, Charlie",Cancelled,399645,330670,Client A
+P1267,Data Warehouse,7/15/2024 0:00,11/11/2023 0:00,Alice,"Alice, Bob",Cancelled,522424,647243,Client E
+P1268,IoT Automation,4/14/2024 0:00,5/15/2022 0:00,Eve,Eve,Cancelled,840464,145760,Client C
+P1274,Cloud Migration,10/14/2024 0:00,5/26/2022 0:00,David,David,Completed,896387,50553,Client B
+P1275,App Development,1/27/2024 0:00,6/25/2023 0:00,Alice,"David, Frank",Completed,865206,69042,Client C
+P1286,Cloud Migration,10/9/2024 0:00,7/18/2023 0:00,Bob,"Frank, Eve, David",Completed,930785,607821,Client D
+P1287,AI Software,1/27/2024 0:00,3/26/2023 0:00,Bob,"Bob, Charlie, Eve",Cancelled,303896,525952,Client A
+P1289,IoT Automation,10/18/2023 0:00,10/28/2024 0:00,Alice,"Charlie, Bob",Cancelled,979950,547619,Client E
+P1297,Data Warehouse,5/10/2024 0:00,3/17/2023 0:00,Frank,Frank,Cancelled,262530,779235,Client C
+P1298,AI Software,9/1/2023 0:00,2/6/2023 0:00,Frank,Frank,Cancelled,223434,606183,Client D
+P1303,Blockchain Integration,4/25/2022 0:00,7/26/2023 0:00,David,Frank,Cancelled,859589,782203,Client E
+P1304,Blockchain Integration,10/31/2022 0:00,5/29/2024 0:00,Frank,Frank,Completed,736203,262876,Client D
+P1306,Cloud Migration,12/7/2023 0:00,8/29/2022 0:00,Bob,Frank,Completed,479376,450798,Client D
+P1307,App Development,11/14/2022 0:00,9/26/2022 0:00,Alice,"David, Alice",Cancelled,645478,247526,Client D
+P1309,Blockchain Integration,1/5/2023 0:00,2/23/2024 0:00,Alice,"Frank, Charlie",Completed,976579,810302,Client B
+P1312,AI Software,12/23/2023 0:00,3/26/2023 0:00,Bob,Bob,Cancelled,795817,97899,Client A
+P1318,Cloud Migration,6/19/2023 0:00,6/19/2024 0:00,,,Active,719196,528250,Client A
+P1319,App Development,5/17/2024 0:00,5/22/2024 0:00,David,Bob,Active,670950,347892,Client E
+P1320,Blockchain Integration,7/13/2023 0:00,3/1/2023 0:00,Eve,Eve,Active,555234,795502,Client D
+P1322,Cloud Migration,2/8/2023 0:00,6/23/2023 0:00,Alice,"Charlie, Alice, David",Active,501010,638526,Client D
+P1323,IoT Automation,10/4/2023 0:00,8/16/2024 0:00,Alice,"Alice, David, Eve",Active,461462,371042,Client C
+P1325,Cloud Migration,11/2/2022 0:00,5/17/2023 0:00,Alice,"Alice, Charlie, Frank",Active,327155,570525,Client B
+P1329,Cloud Migration,9/6/2022 0:00,6/8/2022 0:00,David,"Frank, Bob, Charlie",Completed,252795,261084,Client E
+P1332,App Development,12/10/2022 0:00,7/15/2023 0:00,Frank,Eve,Active,886874,396686,Client E
+P1335,Cloud Migration,9/1/2022 0:00,10/2/2022 0:00,David,Alice,Cancelled,256187,281306,Client C
+P1336,Data Warehouse,2/10/2024 0:00,4/10/2023 0:00,Frank,"Bob, Frank",Cancelled,934963,89463,Client E
+P1344,Data Warehouse,7/21/2023 0:00,9/3/2022 0:00,Frank,Alice,Completed,555342,448623,Client B
+P1348,AI Software,8/2/2024 0:00,12/16/2022 0:00,Alice,David,Completed,900329,237953,Client D
+P1349,Blockchain Integration,3/26/2022 0:00,9/28/2023 0:00,David,"Charlie, Alice",Cancelled,311873,165471,Client A
+P1351,App Development,6/28/2024 0:00,3/31/2023 0:00,Alice,"Eve, David, Alice",Completed,953869,757181,Client C
+P1352,Data Warehouse,8/18/2024 0:00,6/28/2022 0:00,Bob,Charlie,Active,963565,364268,Client E
+P1353,App Development,6/25/2022 0:00,4/21/2023 0:00,Frank,"Charlie, David, Bob",Completed,995955,132169,Client E
+P1356,Data Warehouse,5/22/2023 0:00,9/23/2023 0:00,Alice,Eve,Active,741799,636773,Client B
+P1360,Data Warehouse,5/20/2024 0:00,1/10/2024 0:00,Charlie,Charlie,Cancelled,156962,505736,Client C
+P1361,AI Software,5/5/2024 0:00,9/19/2022 0:00,Alice,Alice,Cancelled,911235,396457,Client B
+P1362,App Development,11/20/2023 0:00,10/28/2022 0:00,David,"Frank, David",Completed,760117,356351,Client C
+P1368,Cloud Migration,3/24/2024 0:00,10/6/2023 0:00,Alice,Alice,Active,117634,667703,Client B
+P1369,Data Warehouse,10/17/2022 0:00,8/22/2022 0:00,David,David,Cancelled,562054,686968,Client A
+P1374,IoT Automation,5/17/2023 0:00,7/30/2022 0:00,Bob,Bob,Active,531642,479830,Client C
+P1384,AI Software,8/22/2024 0:00,3/27/2022 0:00,Eve,"Alice, Bob, Charlie",Active,123839,597760,Client C
+P1388,Data Warehouse,7/17/2022 0:00,4/11/2022 0:00,Alice,Bob,Cancelled,312511,847178,Client A
+P1389,Cloud Migration,12/10/2023 0:00,2/1/2024 0:00,Eve,Eve,Completed,193519,185359,Client E
+P1397,Data Warehouse,3/11/2024 0:00,9/13/2022 0:00,Bob,Bob,Completed,182412,664051,Client D
+P1398,IoT Automation,3/8/2023 0:00,1/4/2023 0:00,Frank,"Eve, Alice, Charlie",Active,100487,865525,Client B
+P1399,Cloud Migration,8/7/2024 0:00,3/30/2023 0:00,Charlie,"Eve, Frank",Completed,329502,306307,Client A
+P1403,App Development,11/3/2022 0:00,7/24/2022 0:00,Charlie,"Charlie, Bob",Cancelled,701290,117201,Client B
+P1405,App Development,4/15/2023 0:00,3/9/2022 0:00,Alice,Alice,Active,328855,107260,Client E
+P1407,Data Warehouse,3/8/2022 0:00,5/4/2024 0:00,Alice,"Frank, Alice",Cancelled,422015,423053,Client E
+P1408,Blockchain Integration,4/19/2022 0:00,10/3/2023 0:00,Frank,David,Active,151573,866615,Client E
+P1413,Data Warehouse,1/1/2024 0:00,3/26/2022 0:00,David,"Alice, Bob, David",Active,957170,396834,Client C
+P1415,Cloud Migration,4/19/2024 0:00,3/1/2024 0:00,Alice,Alice,Cancelled,155469,544249,Client D
+P1416,AI Software,8/25/2022 0:00,8/10/2022 0:00,Alice,Alice,Completed,314843,632355,Client E
+P1417,Blockchain Integration,6/4/2024 0:00,3/8/2024 0:00,Bob,Bob,Cancelled,972415,895324,Client A
+P1419,IoT Automation,1/3/2023 0:00,7/13/2023 0:00,Frank,"Bob, Charlie, Frank",Cancelled,248660,279009,Client D
+P1422,Cloud Migration,8/17/2023 0:00,8/6/2023 0:00,Charlie,David,Cancelled,295714,321974,Client C
+P1431,Cloud Migration,10/2/2023 0:00,12/3/2022 0:00,Charlie,"Bob, Alice, Frank",Completed,672653,85112,Client B
+P1432,Data Warehouse,7/30/2024 0:00,3/10/2024 0:00,Eve,"David, Alice, Eve",Cancelled,970053,254370,Client C
+P1435,IoT Automation,5/9/2022 0:00,5/2/2023 0:00,Bob,Bob,Active,546714,163017,Client B
+P1437,App Development,6/6/2024 0:00,4/10/2024 0:00,Eve,"David, Alice",Active,665559,522658,Client A
+P1440,Data Warehouse,10/30/2023 0:00,4/12/2022 0:00,Eve,"Charlie, Frank, Bob",Active,433910,739997,Client C
+P1442,IoT Automation,4/21/2024 0:00,3/24/2024 0:00,Frank,"Frank, Alice",Active,886716,84256,Client E
+P1443,Blockchain Integration,4/19/2023 0:00,6/10/2022 0:00,David,"David, Charlie, Frank",Completed,874672,732754,Client D
+P1445,AI Software,4/28/2023 0:00,3/9/2024 0:00,Alice,"David, Bob",Completed,717203,646724,Client B
+P1449,App Development,6/19/2022 0:00,12/28/2022 0:00,David,"Charlie, Frank, Eve",Completed,834120,728044,Client E
+P1451,IoT Automation,9/7/2022 0:00,9/29/2022 0:00,Eve,Eve,Active,620580,349941,Client A
+P1456,Data Warehouse,10/15/2022 0:00,5/16/2022 0:00,Alice,Alice,Completed,494387,882505,Client B
+P1459,AI Software,4/25/2023 0:00,2/7/2024 0:00,Eve,Eve,Active,759737,636242,Client D
+P1460,Blockchain Integration,9/28/2023 0:00,10/13/2022 0:00,Eve,Eve,Active,806617,343948,Client E
+P1462,AI Software,2/28/2024 0:00,9/13/2023 0:00,David,Eve,Completed,791593,838116,Client E
+P1463,Data Warehouse,2/10/2024 0:00,5/16/2023 0:00,Frank,Frank,Completed,915044,840512,Client E
+P1465,AI Software,11/1/2023 0:00,6/22/2022 0:00,Bob,Eve,Completed,820106,189960,Client A
+P1466,AI Software,5/15/2024 0:00,5/25/2024 0:00,Charlie,Alice,Active,697092,210765,Client A
+P1471,Cloud Migration,10/9/2022 0:00,4/5/2023 0:00,Frank,Frank,Completed,517260,275995,Client C
+P1474,IoT Automation,9/18/2024 0:00,5/8/2023 0:00,Bob,Bob,Cancelled,660211,478124,Client B
+P1476,App Development,12/14/2022 0:00,3/3/2023 0:00,Frank,Frank,Completed,753721,178823,Client D
+P1477,Cloud Migration,8/18/2023 0:00,5/15/2024 0:00,Alice,"Eve, Alice",Cancelled,402833,498555,Client A
+P1478,App Development,1/30/2023 0:00,4/18/2024 0:00,Alice,David,Completed,116951,432940,Client E
+P1479,IoT Automation,8/28/2022 0:00,10/11/2022 0:00,Frank,"Alice, Frank, Bob",Cancelled,233037,61226,Client D
+P1480,IoT Automation,3/7/2022 0:00,6/29/2022 0:00,Charlie,"Frank, Eve, David",Completed,139623,497603,Client E
+P1481,Blockchain Integration,4/30/2022 0:00,8/16/2023 0:00,Charlie,Charlie,Cancelled,937167,551626,Client D
+P1484,AI Software,2/17/2024 0:00,3/30/2024 0:00,Charlie,Charlie,Cancelled,982653,834746,Client D
+P1486,App Development,8/13/2024 0:00,3/23/2024 0:00,Eve,Frank,Active,824992,438177,Client C
+P1487,Cloud Migration,7/9/2024 0:00,6/27/2022 0:00,David,"David, Charlie, Alice",Active,406045,132042,Client E
+P1491,Data Warehouse,2/16/2023 0:00,5/23/2024 0:00,Alice,Alice,Completed,760095,561323,Client A
+P1494,Cloud Migration,5/11/2022 0:00,5/23/2023 0:00,Bob,Eve,Active,756477,880895,Client D
+P1496,Data Warehouse,2/13/2024 0:00,3/8/2024 0:00,David,David,Completed,887663,530722,Client C
+P1502,Data Warehouse,4/17/2023 0:00,2/14/2023 0:00,David,"Eve, Bob, Charlie",Cancelled,665465,220964,Client D
+P1504,Cloud Migration,9/9/2022 0:00,2/27/2024 0:00,Eve,"Alice, Frank, Charlie",Completed,745485,356891,Client B
+P1508,Cloud Migration,5/30/2024 0:00,11/26/2023 0:00,Frank,Eve,Completed,583819,321521,Client A
+P1509,AI Software,5/24/2023 0:00,3/9/2022 0:00,Frank,"Frank, David, Eve",Active,658049,623009,Client A
+P1512,IoT Automation,7/8/2022 0:00,9/12/2022 0:00,Alice,"Alice, Eve",Completed,557666,774549,Client E
+P1513,IoT Automation,3/27/2022 0:00,12/23/2023 0:00,Charlie,Charlie,Active,853443,323101,Client E
+P1514,App Development,10/2/2022 0:00,7/9/2023 0:00,Bob,"Charlie, Bob",Active,977705,702527,Client D
+P1515,AI Software,3/11/2023 0:00,8/20/2023 0:00,Alice,Frank,Active,435666,679900,Client E
+P1516,AI Software,11/29/2023 0:00,10/26/2023 0:00,Bob,"Bob, David, Charlie",Cancelled,305681,241760,Client A
+P1519,Blockchain Integration,8/21/2022 0:00,2/3/2023 0:00,Bob,"Bob, Frank",Cancelled,433713,612899,Client D
+P1520,App Development,12/2/2022 0:00,12/10/2023 0:00,David,"Eve, Alice",Active,100686,512113,Client E
+P1521,Blockchain Integration,7/5/2022 0:00,3/3/2023 0:00,Bob,Bob,Cancelled,295283,760555,Client A
+P1523,App Development,2/21/2024 0:00,8/30/2024 0:00,David,"Eve, Bob, Alice",Active,154391,117202,Client D
+P1526,Blockchain Integration,5/27/2024 0:00,11/23/2022 0:00,Alice,"Alice, Frank",Active,509106,869924,Client A
+P1531,AI Software,12/18/2023 0:00,3/7/2022 0:00,David,"Alice, Charlie, Bob",Cancelled,668087,309423,Client A
+P1535,App Development,2/23/2023 0:00,1/12/2023 0:00,Bob,"Eve, Charlie, Bob",Cancelled,512272,154574,Client B
+P1544,Blockchain Integration,6/1/2023 0:00,8/26/2024 0:00,Bob,"Frank, Charlie",Cancelled,304019,127525,Client E
+P1546,Data Warehouse,11/3/2023 0:00,8/25/2024 0:00,Bob,"Bob, Charlie, Frank",Cancelled,456710,558277,Client D
+P1547,AI Software,3/1/2022 0:00,5/28/2022 0:00,Eve,"David, Frank, Eve",Cancelled,373393,87805,Client C
+P1549,Data Warehouse,12/3/2022 0:00,2/3/2024 0:00,Charlie,"David, Frank",Cancelled,443807,419645,Client A
+P1550,AI Software,9/26/2023 0:00,7/13/2024 0:00,David,"David, Alice, Bob",Completed,898488,699515,Client D
+P1552,IoT Automation,5/2/2023 0:00,10/21/2024 0:00,David,"Frank, Bob",Cancelled,460029,677234,Client E
+P1554,App Development,11/7/2022 0:00,4/27/2022 0:00,David,Alice,Active,717741,156979,Client A
+P1555,AI Software,8/21/2023 0:00,7/21/2023 0:00,Bob,"Bob, David, Alice",Completed,828338,199007,Client B
+P1558,Cloud Migration,12/18/2023 0:00,7/4/2024 0:00,Charlie,Charlie,Completed,334412,526476,Client A
+P1559,Cloud Migration,10/1/2023 0:00,12/6/2022 0:00,Eve,Charlie,Cancelled,628986,72506,Client E
+P1561,App Development,9/9/2022 0:00,2/12/2023 0:00,Frank,Eve,Active,483573,168475,Client C
+P1564,Cloud Migration,2/17/2024 0:00,5/23/2023 0:00,Eve,Eve,Completed,505042,669816,Client A
+P1566,Blockchain Integration,3/4/2024 0:00,4/1/2024 0:00,Bob,"Bob, Charlie, Frank",Completed,739509,251701,Client B
+P1567,App Development,12/18/2023 0:00,8/25/2023 0:00,Alice,"David, Bob, Charlie",Active,611462,825985,Client C
+P1568,AI Software,5/26/2022 0:00,9/24/2023 0:00,David,"Charlie, David",Active,401260,775987,Client C
+P1578,Cloud Migration,3/30/2023 0:00,1/25/2024 0:00,,,Completed,838916,442367,Client A
+P1583,IoT Automation,2/2/2024 0:00,6/5/2024 0:00,David,"David, Alice",Cancelled,441045,764993,Client C
+P1584,Cloud Migration,3/26/2024 0:00,1/28/2023 0:00,Eve,"Eve, Charlie",Cancelled,212745,319881,Client D
+P1586,AI Software,12/28/2022 0:00,8/30/2024 0:00,Eve,"Frank, David",Cancelled,327117,715490,Client D
+P1588,App Development,3/21/2022 0:00,8/23/2022 0:00,Eve,Eve,Cancelled,324885,676768,Client A
+P1589,Blockchain Integration,7/18/2023 0:00,8/16/2022 0:00,Alice,"Charlie, David",Active,598970,484230,Client D
+P1592,Data Warehouse,7/18/2024 0:00,2/18/2024 0:00,Alice,Alice,Active,569056,883398,Client A
+P1597,IoT Automation,8/29/2024 0:00,8/14/2023 0:00,David,Charlie,Completed,397249,683954,Client E
+P1598,Data Warehouse,1/20/2024 0:00,2/21/2023 0:00,Eve,"David, Alice, Charlie",Cancelled,930948,735894,Client C
+P1604,App Development,5/10/2022 0:00,11/18/2022 0:00,David,Bob,Completed,163063,94083,Client D
+P1608,IoT Automation,9/2/2022 0:00,9/16/2023 0:00,Alice,Alice,Active,346425,306233,Client A
+P1609,AI Software,2/27/2023 0:00,8/24/2022 0:00,Frank,"Frank, Charlie",Completed,652372,805186,Client A
+P1616,Cloud Migration,5/14/2022 0:00,9/7/2024 0:00,Bob,Bob,Active,910471,703789,Client E
+P1622,Cloud Migration,3/18/2024 0:00,3/10/2024 0:00,Charlie,Charlie,Completed,453669,92412,Client E
+P1624,AI Software,4/9/2024 0:00,10/26/2022 0:00,Frank,"Charlie, Eve",Completed,762880,285352,Client B
+P1630,Data Warehouse,3/29/2022 0:00,4/6/2022 0:00,David,Eve,Completed,419335,440188,Client E
+P1631,Blockchain Integration,2/15/2024 0:00,2/14/2023 0:00,David,David,Completed,224421,586201,Client A
+P1637,AI Software,3/28/2022 0:00,6/19/2022 0:00,Frank,Frank,Cancelled,421746,58845,Client D
+P1638,Cloud Migration,2/18/2024 0:00,2/27/2022 0:00,David,"Frank, Bob",Active,340725,661161,Client E
+P1642,Data Warehouse,1/5/2024 0:00,4/1/2023 0:00,Frank,"Frank, Charlie",Completed,967252,370439,Client B
+P1645,AI Software,4/23/2023 0:00,4/4/2023 0:00,Frank,"Alice, Bob, David",Cancelled,439714,236291,Client A
+P1649,Data Warehouse,1/27/2024 0:00,6/27/2023 0:00,Charlie,Charlie,Cancelled,815123,378915,Client D
+P1651,AI Software,5/14/2023 0:00,4/11/2022 0:00,Charlie,"Charlie, Frank, Alice",Completed,645059,456550,Client E
+P1655,Cloud Migration,7/12/2024 0:00,9/1/2022 0:00,Eve,Eve,Active,991648,674734,Client B
+P1657,AI Software,10/12/2022 0:00,12/31/2023 0:00,Frank,Frank,Completed,768280,740491,Client E
+P1663,App Development,3/26/2024 0:00,3/8/2024 0:00,Eve,Eve,Completed,837866,97680,Client A
+P1666,Blockchain Integration,8/24/2023 0:00,12/7/2022 0:00,Alice,Alice,Cancelled,944507,168245,Client A
+P1670,AI Software,3/8/2024 0:00,6/15/2022 0:00,David,Charlie,Active,165971,144421,Client D
+P1672,App Development,5/24/2024 0:00,6/8/2024 0:00,Alice,"Alice, Eve, David",Active,982027,847286,Client B
+P1676,App Development,3/8/2022 0:00,8/13/2023 0:00,Frank,"Alice, Bob, Frank",Cancelled,194215,733344,Client D
+P1678,Cloud Migration,3/7/2023 0:00,10/28/2023 0:00,Frank,Charlie,Active,267930,821076,Client C
+P1682,IoT Automation,5/17/2024 0:00,12/27/2023 0:00,Bob,"David, Bob",Completed,643876,831321,Client C
+P1685,AI Software,2/28/2024 0:00,6/2/2023 0:00,Bob,"Charlie, Eve",Active,467093,256263,Client B
+P1686,App Development,9/28/2023 0:00,9/27/2022 0:00,Eve,"Eve, David, Bob",Cancelled,436434,615435,Client E
+P1687,IoT Automation,3/17/2023 0:00,3/3/2023 0:00,Alice,Alice,Active,480829,620395,Client A
+P1691,Blockchain Integration,4/6/2023 0:00,10/6/2024 0:00,Eve,Eve,Cancelled,441242,333275,Client A
+P1692,Data Warehouse,12/20/2022 0:00,7/10/2024 0:00,Frank,"Bob, David",Cancelled,194617,605179,Client B
+P1700,App Development,10/11/2022 0:00,3/26/2023 0:00,Frank,Alice,Completed,284076,609920,Client C
+P1704,Blockchain Integration,7/7/2023 0:00,4/20/2024 0:00,Alice,Eve,Completed,691905,235923,Client D
+P1706,IoT Automation,10/1/2022 0:00,8/30/2024 0:00,Charlie,Bob,Active,130688,575967,Client E
+P1707,AI Software,7/29/2022 0:00,2/4/2023 0:00,David,"Eve, Frank",Active,280925,454083,Client D
+P1719,IoT Automation,8/21/2024 0:00,5/25/2023 0:00,Eve,Eve,Completed,927695,127998,Client D
+P1726,Blockchain Integration,7/6/2022 0:00,11/19/2023 0:00,Alice,Eve,Completed,947502,284677,Client A
+P1727,App Development,12/6/2022 0:00,12/1/2022 0:00,Alice,"Alice, Bob",Cancelled,359140,245910,Client A
+P1728,AI Software,9/1/2024 0:00,5/30/2022 0:00,David,Alice,Active,698782,679236,Client D
+P1730,AI Software,10/14/2024 0:00,5/6/2023 0:00,Charlie,David,Completed,912574,391171,Client A
+P1732,Cloud Migration,6/2/2024 0:00,5/23/2023 0:00,Alice,Alice,Active,289226,784335,Client D
+P1734,Cloud Migration,1/14/2023 0:00,5/10/2022 0:00,Charlie,"Alice, David, Frank",Completed,710549,555705,Client C
+P1739,Data Warehouse,10/11/2024 0:00,4/23/2023 0:00,Frank,"Frank, Alice",Active,724842,715640,Client B
+P1740,Blockchain Integration,3/11/2024 0:00,11/1/2023 0:00,Bob,"Eve, Charlie",Cancelled,652599,614371,Client D
+P1742,AI Software,7/12/2023 0:00,11/17/2023 0:00,Frank,David,Active,614145,309378,Client B
+P1745,AI Software,1/27/2023 0:00,2/2/2024 0:00,David,"Eve, David, Frank",Active,644153,479655,Client C
+P1750,Cloud Migration,3/31/2022 0:00,1/2/2024 0:00,Charlie,Eve,Completed,928989,617298,Client B
+P1752,IoT Automation,12/15/2022 0:00,12/14/2022 0:00,David,David,Completed,281682,236851,Client C
+P1755,Blockchain Integration,10/14/2024 0:00,4/14/2023 0:00,Alice,Bob,Completed,612696,459772,Client E
+P1758,AI Software,8/26/2023 0:00,7/1/2024 0:00,Alice,"David, Frank, Charlie",Active,696557,850817,Client B
+P1759,AI Software,10/8/2024 0:00,5/24/2022 0:00,Alice,"Frank, Eve",Active,816803,421093,Client D
+P1760,Blockchain Integration,10/3/2024 0:00,3/26/2024 0:00,Bob,Bob,Completed,875926,148776,Client A
+P1761,Data Warehouse,4/27/2023 0:00,1/17/2024 0:00,Eve,Eve,Cancelled,490272,519989,Client B
+P1763,Blockchain Integration,1/13/2024 0:00,4/25/2022 0:00,Charlie,"Frank, Alice, David",Active,768390,642974,Client B
+P1764,Data Warehouse,4/21/2023 0:00,9/1/2024 0:00,Alice,"Alice, Charlie, Eve",Completed,163838,220401,Client C
+P1766,Data Warehouse,10/3/2024 0:00,7/9/2023 0:00,Charlie,"Frank, Alice",Completed,953132,753764,Client D
+P1774,Cloud Migration,4/3/2022 0:00,11/29/2023 0:00,Eve,David,Cancelled,463737,493601,Client C
+P1775,App Development,4/20/2024 0:00,9/2/2023 0:00,Eve,"Charlie, David",Active,270922,369304,Client A
+P1779,App Development,5/3/2023 0:00,3/14/2023 0:00,Eve,Eve,Completed,705225,630120,Client C
+P1780,IoT Automation,5/21/2024 0:00,2/9/2023 0:00,Bob,"Alice, Charlie, Eve",Active,865215,529497,Client B
+P1784,IoT Automation,4/30/2023 0:00,6/19/2024 0:00,Bob,Bob,Active,390648,348033,Client B
+P1786,Cloud Migration,7/9/2022 0:00,9/29/2024 0:00,Charlie,"Alice, Bob",Active,159442,252942,Client D
+P1788,Cloud Migration,1/21/2024 0:00,10/11/2022 0:00,Alice,"Frank, David",Completed,704555,366951,Client B
+P1791,App Development,8/1/2024 0:00,9/6/2022 0:00,Charlie,"David, Alice",Completed,624146,710512,Client E
+P1798,Data Warehouse,3/3/2024 0:00,10/1/2022 0:00,Charlie,David,Completed,582706,60356,Client B
+P0002,AI Software,11/23/2023 0:00,6/25/2022 0:00,Frank,Charlie,pending,782059,143571,Client A
+P0010,AI Software,3/24/2022 0:00,12/16/2023 0:00,Bob,"Eve, Charlie, Frank",pending,697905,310753,Client D
+P0012,IoT Automation,7/22/2024 0:00,5/18/2022 0:00,Charlie,"David, Charlie, Alice",pending,806956,274488,Client D
+P0015,App Development,7/4/2024 0:00,5/26/2022 0:00,Frank,Frank,pending,779299,268525,Client E
+P0024,AI Software,12/8/2023 0:00,6/25/2024 0:00,David,"David, Charlie",pending,509735,463960,Client C
+P0032,Blockchain Integration,5/17/2023 0:00,10/24/2022 0:00,Charlie,"Charlie, Alice, David",pending,749358,416975,Client E
+P0045,AI Software,7/9/2022 0:00,11/21/2023 0:00,Alice,Alice,pending,416722,426455,Client A
+P0059,AI Software,4/22/2024 0:00,11/17/2023 0:00,David,Alice,pending,260741,806597,Client C
+P0075,AI Software,1/20/2023 0:00,5/30/2024 0:00,Frank,Alice,pending,998627,641845,Client B
+P0095,IoT Automation,7/6/2023 0:00,4/28/2024 0:00,Alice,"Bob, Alice",pending,476091,468002,Client D
+P0097,Blockchain Integration,9/12/2024 0:00,3/4/2022 0:00,David,"Frank, Alice, Eve",pending,813385,494392,Client A
+P0102,IoT Automation,8/3/2024 0:00,9/7/2022 0:00,David,"David, Charlie, Eve",pending,992440,205327,Client C
+P0103,App Development,12/30/2022 0:00,7/26/2024 0:00,Alice,"David, Charlie, Frank",pending,246298,804757,Client C
+P0104,Blockchain Integration,5/20/2022 0:00,4/29/2024 0:00,Alice,"David, Eve",pending,930763,409366,Client B
+P0116,IoT Automation,4/17/2022 0:00,11/18/2022 0:00,Eve,"Alice, David",pending,935623,233480,Client B
+P0117,Data Warehouse,9/8/2024 0:00,10/30/2023 0:00,Alice,Alice,pending,514146,256101,Client C
+P0121,Cloud Migration,3/15/2023 0:00,4/22/2022 0:00,David,Eve,pending,211596,518524,Client B
+P0128,IoT Automation,5/19/2024 0:00,1/16/2023 0:00,Charlie,Charlie,pending,175714,472135,Client D
+P0130,App Development,7/17/2023 0:00,10/5/2024 0:00,David,David,pending,525847,510824,Client C
+P0133,App Development,4/14/2022 0:00,12/16/2023 0:00,Bob,Bob,pending,300284,132767,Client B
+P0142,AI Software,2/10/2024 0:00,6/26/2023 0:00,Eve,"Alice, David, Frank",pending,414798,841775,Client D
+P0144,AI Software,7/30/2023 0:00,7/14/2023 0:00,Alice,"Charlie, Bob, Frank",pending,549339,518641,Client C
+P0148,IoT Automation,2/4/2023 0:00,11/3/2022 0:00,Alice,"Bob, Eve",pending,133049,325454,Client D
+P0152,Cloud Migration,3/26/2022 0:00,7/21/2023 0:00,Bob,"David, Bob",pending,665200,844073,Client C
+P0155,Cloud Migration,8/29/2023 0:00,1/17/2024 0:00,Frank,"Charlie, Eve",pending,818115,380350,Client B
+P0168,AI Software,3/29/2023 0:00,10/11/2023 0:00,Eve,"David, Alice",pending,743529,176120,Client B
+P0170,Cloud Migration,9/21/2023 0:00,5/1/2024 0:00,David,"Frank, Eve",pending,722255,836334,Client C
+P0174,IoT Automation,6/1/2022 0:00,8/14/2022 0:00,David,David,pending,585679,101489,Client B
+P0178,Blockchain Integration,5/10/2022 0:00,5/2/2024 0:00,Frank,Bob,pending,223384,241905,Client B
+P0189,Blockchain Integration,11/5/2022 0:00,1/1/2023 0:00,Bob,"Charlie, Frank",pending,285211,590615,Client B
+P0195,Cloud Migration,3/5/2022 0:00,4/11/2023 0:00,Charlie,"David, Alice, Charlie",pending,221728,711467,Client E
+P0197,AI Software,12/8/2023 0:00,5/19/2023 0:00,Eve,"Frank, David",pending,734604,622257,Client E
+P0203,App Development,7/11/2022 0:00,6/17/2022 0:00,Bob,"Charlie, Frank, Alice",pending,596666,867930,Client B
+P0221,App Development,12/9/2023 0:00,7/30/2022 0:00,Eve,"Frank, Bob",pending,414932,322106,Client A
+P0231,Cloud Migration,5/15/2024 0:00,8/28/2023 0:00,Frank,"Frank, Alice, Eve",pending,796292,669110,Client D
+P0232,App Development,8/2/2024 0:00,7/22/2024 0:00,David,"David, Charlie, Frank",pending,601989,223381,Client D
+P0250,Blockchain Integration,6/8/2024 0:00,2/10/2024 0:00,Bob,"Eve, David, Frank",pending,735894,285018,Client C
+P0253,Data Warehouse,5/16/2024 0:00,11/22/2022 0:00,Bob,Bob,pending,928865,659258,Client B
+P0255,App Development,4/18/2024 0:00,12/28/2022 0:00,Charlie,Eve,pending,892125,722322,Client C
+P0257,Data Warehouse,11/11/2022 0:00,2/18/2024 0:00,Bob,David,pending,401599,684122,Client B
+P0259,Cloud Migration,1/20/2023 0:00,2/10/2023 0:00,Frank,"Alice, David, Charlie",pending,132415,689447,Client C
+P0260,Blockchain Integration,7/15/2022 0:00,9/24/2022 0:00,Bob,Charlie,pending,688971,623359,Client B
+P0264,App Development,7/30/2023 0:00,3/22/2022 0:00,David,"Eve, David, Charlie",pending,512370,377568,Client A
+P0265,App Development,9/6/2024 0:00,4/4/2023 0:00,Eve,"Eve, Bob, Frank",pending,781749,515511,Client B
+P0274,Cloud Migration,9/11/2022 0:00,2/19/2024 0:00,Eve,Eve,pending,793117,877687,Client B
+P0279,IoT Automation,4/23/2023 0:00,12/22/2022 0:00,David,"Frank, Bob",pending,363814,321090,Client A
+P0280,AI Software,2/19/2024 0:00,10/3/2024 0:00,Eve,"Bob, David, Alice",pending,384427,208690,Client E
+P0282,IoT Automation,7/15/2022 0:00,8/7/2023 0:00,Eve,Frank,pending,428258,681182,Client E
+P0285,AI Software,4/9/2022 0:00,11/19/2024 0:00,Eve,Eve,pending,421228,143513,Client E
+P0286,Cloud Migration,6/18/2022 0:00,9/8/2023 0:00,Frank,"Frank, Eve",pending,451271,274869,Client A
+P0289,AI Software,11/26/2022 0:00,6/10/2024 0:00,Eve,Eve,pending,791128,310345,Client D
+P0290,Blockchain Integration,2/24/2022 0:00,6/6/2022 0:00,Alice,Bob,pending,742833,842189,Client E
+P0300,Blockchain Integration,8/19/2023 0:00,9/1/2024 0:00,Eve,"Charlie, David, Frank",pending,727186,784351,Client C
+P0304,AI Software,7/23/2022 0:00,8/6/2022 0:00,Alice,Alice,pending,607870,180620,Client C
+P0306,IoT Automation,6/1/2024 0:00,12/10/2022 0:00,Charlie,"Bob, David",pending,457983,83099,Client C
+P0309,AI Software,8/28/2024 0:00,11/2/2022 0:00,Charlie,"Eve, Bob",pending,494853,486617,Client B
+P0315,Blockchain Integration,3/9/2022 0:00,6/26/2024 0:00,Eve,"Eve, Frank, David",pending,390551,614385,Client E
+P0317,AI Software,10/23/2022 0:00,3/6/2023 0:00,Frank,Frank,pending,153470,623261,Client C
+P0320,AI Software,6/2/2022 0:00,6/17/2024 0:00,David,"Charlie, David, Eve",pending,558408,627925,Client B
+P0332,Blockchain Integration,7/31/2023 0:00,4/1/2022 0:00,David,Alice,pending,754688,698591,Client E
+P0334,Data Warehouse,2/24/2022 0:00,6/7/2022 0:00,Charlie,"Alice, Frank, Charlie",pending,341684,449677,Client C
+P0336,AI Software,3/7/2024 0:00,5/10/2024 0:00,Alice,"Charlie, Alice",pending,379692,144682,Client B
+P0350,AI Software,7/29/2024 0:00,9/23/2022 0:00,Frank,"David, Bob, Eve",pending,739219,674958,Client E
+P0352,AI Software,3/5/2024 0:00,11/5/2024 0:00,Alice,"Frank, Charlie, Alice",pending,393046,464067,Client A
+P0355,App Development,3/12/2022 0:00,6/20/2023 0:00,Frank,"Bob, David",pending,728848,154866,Client A
+P0356,AI Software,7/11/2024 0:00,11/21/2022 0:00,David,David,pending,567838,322530,Client E
+P0357,IoT Automation,6/14/2022 0:00,9/21/2023 0:00,Frank,"Frank, Bob, Alice",pending,205242,678614,Client E
+P0365,AI Software,1/1/2024 0:00,5/20/2023 0:00,Eve,Eve,pending,649386,444616,Client B
+P0366,App Development,3/26/2022 0:00,3/30/2023 0:00,Bob,"Frank, Bob",pending,121722,765557,Client C
+P0368,Cloud Migration,6/25/2023 0:00,1/31/2023 0:00,Eve,"Eve, Charlie",pending,563669,633797,Client A
+P0379,Blockchain Integration,7/31/2024 0:00,12/2/2022 0:00,Frank,"Eve, Bob, Charlie",pending,355928,281454,Client C
+P0383,IoT Automation,6/18/2022 0:00,2/28/2024 0:00,Charlie,"Bob, David",pending,476984,437479,Client E
+P0386,Cloud Migration,3/3/2022 0:00,2/18/2024 0:00,Charlie,"Charlie, Eve",pending,193806,714307,Client E
+P0395,App Development,12/17/2023 0:00,6/2/2024 0:00,Alice,"Charlie, Frank",pending,897662,245809,Client C
+P0397,App Development,9/2/2024 0:00,5/19/2022 0:00,David,"David, Alice, Charlie",pending,196864,849053,Client B
+P0409,Data Warehouse,2/17/2023 0:00,9/17/2023 0:00,David,Frank,pending,922359,313403,Client E
+P0418,AI Software,12/27/2023 0:00,9/10/2024 0:00,Eve,Eve,pending,287412,132976,Client A
+P0420,Data Warehouse,10/19/2024 0:00,7/8/2022 0:00,Eve,"Alice, Frank",pending,897819,425772,Client A
+P0423,IoT Automation,2/17/2024 0:00,1/26/2024 0:00,Bob,"Frank, Bob",pending,109171,191463,Client E
+P0436,App Development,8/7/2022 0:00,10/4/2022 0:00,Alice,"Bob, Charlie, David",pending,771231,716430,Client A
+P0437,Cloud Migration,5/20/2023 0:00,7/4/2022 0:00,Alice,"Eve, Bob, Frank",pending,144327,327586,Client A
+P0441,IoT Automation,5/10/2022 0:00,3/11/2022 0:00,Bob,"Charlie, Bob, Alice",pending,810436,577918,Client B
+P0444,AI Software,1/9/2023 0:00,10/6/2024 0:00,Eve,"Charlie, Bob",pending,589286,331390,Client C
+P0446,Data Warehouse,10/4/2023 0:00,9/24/2023 0:00,Frank,"Alice, Charlie, Frank",pending,734930,500087,Client E
+P0447,Blockchain Integration,2/4/2024 0:00,11/4/2023 0:00,Frank,Frank,pending,978316,734532,Client A
+P0457,AI Software,1/16/2023 0:00,8/22/2022 0:00,Alice,"David, Alice, Charlie",pending,491772,765309,Client E
+P0473,AI Software,8/15/2022 0:00,7/27/2022 0:00,Eve,"Alice, Eve, Charlie",pending,357284,308933,Client D
+P0483,App Development,10/18/2022 0:00,6/28/2022 0:00,Bob,Bob,pending,988326,62389,Client D
+P0489,Cloud Migration,3/28/2024 0:00,4/6/2024 0:00,Frank,"Eve, Bob",pending,382705,579694,Client A
+P0491,Blockchain Integration,8/2/2022 0:00,11/4/2023 0:00,Frank,"Alice, Frank, Eve",pending,761310,412115,Client A
+P0494,Cloud Migration,9/8/2024 0:00,4/25/2022 0:00,Eve,Eve,pending,582650,324362,Client E
+P0500,IoT Automation,7/9/2022 0:00,7/17/2024 0:00,Charlie,"Eve, Bob",pending,137912,872375,Client E
+P0511,Blockchain Integration,8/13/2022 0:00,2/27/2023 0:00,Eve,Frank,pending,146151,496258,Client A
+P0514,Blockchain Integration,12/19/2022 0:00,9/18/2024 0:00,Charlie,"Eve, Frank",pending,938306,851462,Client E
+P0523,Cloud Migration,9/20/2022 0:00,7/12/2023 0:00,Bob,Bob,pending,273648,616699,Client C
+P0531,App Development,5/30/2023 0:00,5/27/2023 0:00,Charlie,Charlie,pending,762201,168205,Client D
+P0532,Data Warehouse,10/10/2023 0:00,4/1/2023 0:00,Bob,"David, Bob",pending,652294,741568,Client B
+P0533,AI Software,3/19/2022 0:00,2/26/2022 0:00,Alice,"Frank, Bob",pending,815084,81544,Client D
+P0535,App Development,5/8/2023 0:00,3/18/2024 0:00,Bob,Bob,pending,392515,644103,Client B
+P0536,Cloud Migration,1/21/2024 0:00,8/7/2022 0:00,Frank,"Frank, Charlie",pending,916102,230777,Client D
+P0548,AI Software,11/27/2023 0:00,3/25/2022 0:00,Charlie,"Bob, Charlie",pending,260702,712048,Client E
+P0560,Data Warehouse,11/14/2022 0:00,5/22/2024 0:00,David,David,pending,132081,668274,Client A
+P0567,IoT Automation,4/1/2022 0:00,11/12/2023 0:00,Frank,Frank,pending,740231,667298,Client E
+P0586,IoT Automation,9/19/2024 0:00,9/22/2022 0:00,Frank,"Charlie, Bob",pending,424814,140745,Client A
+P0592,App Development,7/30/2023 0:00,6/28/2024 0:00,Alice,"Alice, David, Bob",pending,509850,670213,Client D
+P0593,AI Software,9/15/2024 0:00,9/1/2024 0:00,Charlie,Charlie,pending,614179,698663,Client A
+P0599,App Development,10/11/2023 0:00,11/8/2024 0:00,Eve,Eve,pending,372611,446278,Client A
+P0605,IoT Automation,5/16/2024 0:00,6/2/2024 0:00,Frank,Frank,pending,828664,632400,Client A
+P0609,IoT Automation,10/6/2023 0:00,9/4/2022 0:00,Charlie,"Eve, Alice",pending,520577,558868,Client D
+P0622,Data Warehouse,6/26/2024 0:00,3/2/2023 0:00,Charlie,Bob,pending,350876,711714,Client E
+P0630,App Development,3/25/2023 0:00,5/2/2023 0:00,Eve,"Alice, Eve",pending,300790,872046,Client B
+P0641,Cloud Migration,3/27/2022 0:00,4/29/2024 0:00,Eve,"David, Alice",pending,888019,146366,Client D
+P0656,Blockchain Integration,6/8/2022 0:00,6/18/2024 0:00,Eve,Bob,pending,964366,53026,Client D
+P0659,Blockchain Integration,10/31/2023 0:00,8/15/2022 0:00,David,David,pending,999441,50063,Client A
+P0667,App Development,6/2/2022 0:00,1/18/2024 0:00,Eve,"Charlie, Bob",pending,719682,341971,Client E
+P0675,Cloud Migration,7/31/2022 0:00,5/26/2024 0:00,Charlie,Bob,pending,738331,591809,Client E
+P0677,Data Warehouse,5/19/2023 0:00,8/15/2022 0:00,Charlie,"Bob, Frank, David",pending,333727,524610,Client B
+P0689,Data Warehouse,3/14/2023 0:00,8/8/2023 0:00,Eve,"Bob, Frank",pending,673094,536352,Client D
+P0690,Blockchain Integration,10/9/2023 0:00,11/7/2024 0:00,Alice,Alice,pending,117137,164512,Client C
+P0693,Data Warehouse,4/5/2023 0:00,9/22/2023 0:00,Charlie,"Frank, Eve",pending,906250,134799,Client C
+P0701,Blockchain Integration,10/17/2022 0:00,6/5/2022 0:00,Bob,"Alice, Bob, Charlie",pending,787973,379158,Client B
+P0708,App Development,6/30/2022 0:00,10/11/2023 0:00,David,"Eve, Charlie",pending,804444,357270,Client B
+P0709,Cloud Migration,3/12/2023 0:00,12/16/2023 0:00,Alice,"Alice, Frank, Charlie",pending,269724,727233,Client B
+P0715,App Development,7/18/2023 0:00,7/10/2022 0:00,Alice,"David, Charlie, Frank",pending,171921,545155,Client C
+P0726,App Development,2/27/2023 0:00,6/10/2023 0:00,Frank,"Frank, Alice",pending,228028,862314,Client D
+P0729,App Development,6/10/2024 0:00,9/13/2024 0:00,Eve,Alice,pending,196500,541018,Client E
+P0742,Cloud Migration,11/25/2023 0:00,7/16/2024 0:00,Frank,"Frank, Eve",pending,131236,313581,Client E
+P0744,Blockchain Integration,10/25/2022 0:00,3/22/2023 0:00,Alice,"Alice, David, Charlie",pending,553405,623741,Client C
+P0745,Cloud Migration,3/4/2024 0:00,3/12/2022 0:00,David,"Bob, Eve, Alice",pending,637311,235468,Client D
+P0746,Blockchain Integration,11/1/2023 0:00,3/30/2023 0:00,Charlie,Charlie,pending,522009,288919,Client D
+P0749,AI Software,5/8/2023 0:00,10/15/2022 0:00,Frank,Bob,pending,884056,194598,Client C
+P0760,Blockchain Integration,1/19/2023 0:00,7/23/2023 0:00,Frank,Frank,pending,535718,852852,Client B
+P0769,Cloud Migration,3/1/2022 0:00,4/10/2024 0:00,Alice,"Frank, David",pending,225570,456742,Client E
+P0771,Cloud Migration,5/16/2024 0:00,2/20/2023 0:00,David,"Eve, Alice",pending,769075,70024,Client A
+P0783,IoT Automation,6/28/2022 0:00,1/22/2023 0:00,Alice,"Bob, David, Eve",pending,414384,509000,Client C
+P0785,AI Software,9/21/2024 0:00,3/18/2024 0:00,Eve,"Bob, Alice, Charlie",pending,443674,643378,Client D
+P0791,Blockchain Integration,1/23/2024 0:00,1/22/2024 0:00,David,"Frank, David, Bob",pending,449999,275023,Client D
+P0799,IoT Automation,9/19/2024 0:00,5/6/2022 0:00,David,"David, Charlie, Alice",pending,675601,566227,Client B
+P0807,AI Software,6/14/2023 0:00,8/15/2022 0:00,David,Bob,pending,877093,748799,Client B
+P0812,AI Software,9/1/2023 0:00,10/19/2022 0:00,Bob,"Charlie, Frank, Bob",pending,144590,368832,Client A
+P0816,Cloud Migration,11/15/2022 0:00,7/2/2022 0:00,Alice,"David, Charlie, Eve",pending,932681,82959,Client D
+P0819,Blockchain Integration,7/28/2023 0:00,4/5/2023 0:00,Eve,Bob,pending,834734,847250,Client E
+P0821,App Development,6/13/2023 0:00,5/4/2024 0:00,Alice,Frank,pending,593161,707311,Client D
+P0823,IoT Automation,3/26/2024 0:00,5/27/2023 0:00,Eve,"Frank, Bob",pending,873704,735707,Client A
+P0824,Blockchain Integration,11/7/2023 0:00,9/25/2024 0:00,David,Charlie,pending,815598,695266,Client B
+P0825,AI Software,2/7/2023 0:00,6/18/2024 0:00,Charlie,"Bob, Eve, Frank",pending,527725,232727,Client A
+P0829,App Development,10/16/2022 0:00,8/9/2023 0:00,Bob,Charlie,pending,296660,407006,Client B
+P0833,Data Warehouse,11/2/2023 0:00,5/22/2024 0:00,Eve,Eve,pending,965101,647053,Client A
+P0834,App Development,9/8/2023 0:00,9/21/2024 0:00,Alice,"Charlie, Frank",pending,460991,63682,Client E
+P0842,AI Software,2/16/2024 0:00,9/7/2023 0:00,Alice,Bob,pending,719433,575288,Client C
+P0843,Cloud Migration,7/1/2023 0:00,10/24/2023 0:00,Alice,"Bob, Charlie",pending,365222,763260,Client D
+P0845,AI Software,1/21/2024 0:00,11/2/2022 0:00,Bob,Charlie,pending,771949,647977,Client E
+P0852,Cloud Migration,2/25/2022 0:00,12/3/2023 0:00,David,"David, Eve",pending,328731,58440,Client B
+P0860,Cloud Migration,5/10/2024 0:00,7/5/2024 0:00,Bob,Bob,pending,486669,242697,Client D
+P0869,Data Warehouse,5/10/2024 0:00,7/16/2024 0:00,Charlie,Charlie,pending,387202,492242,Client B
+P0880,Data Warehouse,9/14/2023 0:00,7/23/2023 0:00,Eve,David,pending,899679,345268,Client B
+P0896,Blockchain Integration,6/27/2023 0:00,11/19/2023 0:00,Frank,"David, Bob, Alice",pending,882660,595952,Client D
+P0899,Cloud Migration,10/12/2024 0:00,5/2/2022 0:00,David,David,pending,396551,778658,Client B
+P0917,App Development,10/15/2023 0:00,9/10/2023 0:00,Alice,Bob,pending,692671,507735,Client E
+P0928,IoT Automation,1/21/2023 0:00,3/10/2022 0:00,Bob,"Alice, Frank",pending,243650,406169,Client D
+P0929,Cloud Migration,11/24/2022 0:00,7/18/2022 0:00,Frank,"Eve, Alice, Frank",pending,146008,552005,Client E
+P0930,Data Warehouse,2/3/2023 0:00,7/2/2022 0:00,David,"Bob, Frank, David",pending,532390,897559,Client A
+P0944,Blockchain Integration,2/12/2023 0:00,7/14/2023 0:00,Bob,"Bob, Frank",pending,198052,274134,Client C
+P0952,Data Warehouse,10/21/2022 0:00,4/4/2024 0:00,Bob,Bob,pending,613329,835704,Client E
+P0966,AI Software,11/29/2023 0:00,6/3/2024 0:00,Bob,Bob,pending,967463,183370,Client B
+P0974,AI Software,11/11/2023 0:00,4/13/2023 0:00,Eve,Eve,pending,820119,765319,Client C
+P0989,AI Software,6/30/2024 0:00,8/12/2023 0:00,Frank,Frank,pending,720424,92862,Client C
+P0991,IoT Automation,3/3/2023 0:00,7/24/2023 0:00,Eve,Alice,pending,575062,606674,Client C
+P1013,Cloud Migration,4/29/2024 0:00,9/21/2022 0:00,Eve,Alice,pending,937752,350878,Client E
+P1014,Data Warehouse,5/3/2023 0:00,8/9/2023 0:00,Frank,Frank,pending,153223,871268,Client E
+P1015,App Development,1/15/2023 0:00,3/16/2022 0:00,Charlie,Charlie,pending,736382,737894,Client B
+P1037,App Development,11/13/2022 0:00,1/3/2024 0:00,Charlie,Charlie,pending,125383,91199,Client C
+P1042,Data Warehouse,2/2/2023 0:00,1/1/2023 0:00,Charlie,"Alice, Bob",pending,186646,477361,Client A
+P1046,Cloud Migration,6/5/2022 0:00,2/6/2023 0:00,Alice,"Eve, Alice, David",pending,160028,765861,Client B
+P1060,Blockchain Integration,12/4/2023 0:00,3/8/2024 0:00,Bob,"Eve, Alice, Bob",pending,900303,604698,Client E
+P1063,AI Software,3/31/2022 0:00,4/25/2024 0:00,Charlie,"Charlie, Bob",pending,142344,539584,Client C
+P1070,Data Warehouse,5/16/2022 0:00,6/15/2023 0:00,David,"David, Eve",pending,388441,806805,Client A
+P1072,AI Software,11/23/2022 0:00,12/11/2022 0:00,Frank,"Charlie, Frank, Alice",pending,228914,259052,Client E
+P1074,IoT Automation,7/21/2022 0:00,9/20/2023 0:00,Frank,"Alice, Bob, Frank",pending,636538,641729,Client E
+P1076,IoT Automation,1/24/2024 0:00,3/6/2022 0:00,Bob,"David, Alice, Bob",pending,151378,813503,Client A
+P1082,Cloud Migration,3/29/2023 0:00,11/24/2022 0:00,Frank,"Charlie, Eve",pending,352067,437909,Client A
+P1095,App Development,6/17/2023 0:00,3/3/2024 0:00,David,David,pending,874379,339599,Client E
+P1100,App Development,7/29/2022 0:00,9/28/2024 0:00,Charlie,"Bob, Alice, Frank",pending,361111,349803,Client A
+P1103,Cloud Migration,12/31/2023 0:00,9/3/2022 0:00,David,Frank,pending,167282,661866,Client C
+P1107,Data Warehouse,4/13/2023 0:00,5/15/2024 0:00,David,David,pending,409488,373953,Client D
+P1115,Data Warehouse,5/24/2024 0:00,2/25/2023 0:00,Frank,"Bob, Eve",pending,986088,569760,Client E
+P1117,Data Warehouse,9/7/2024 0:00,1/25/2023 0:00,David,David,pending,916101,198990,Client E
+P1123,Cloud Migration,7/26/2023 0:00,12/27/2023 0:00,Bob,"Bob, Frank",pending,144374,234778,Client A
+P1126,Data Warehouse,9/16/2022 0:00,11/9/2022 0:00,Frank,"David, Frank",pending,669868,763321,Client A
+P1142,Cloud Migration,2/18/2024 0:00,2/24/2022 0:00,Charlie,Charlie,pending,806402,98906,Client A
+P1147,Data Warehouse,4/26/2023 0:00,12/16/2023 0:00,Alice,"Bob, Charlie, Frank",pending,326632,435338,Client C
+P1160,Cloud Migration,6/2/2024 0:00,3/31/2023 0:00,Charlie,"Charlie, David",pending,195859,850130,Client E
+P1162,AI Software,4/6/2023 0:00,11/19/2023 0:00,Alice,Alice,pending,241250,141063,Client C
+P1183,App Development,12/23/2022 0:00,8/24/2024 0:00,Frank,"Eve, Charlie, David",pending,113757,546690,Client E
+P1186,Cloud Migration,4/22/2023 0:00,9/24/2023 0:00,Charlie,Bob,pending,376705,185478,Client C
+P1190,Cloud Migration,3/6/2022 0:00,3/6/2024 0:00,Frank,"Bob, Eve",pending,751226,146089,Client B
+P1195,App Development,8/20/2023 0:00,5/7/2023 0:00,Frank,Bob,pending,947787,851627,Client A
+P1204,Data Warehouse,8/6/2022 0:00,9/9/2024 0:00,Charlie,Charlie,pending,858072,712825,Client D
+P1212,Cloud Migration,5/7/2022 0:00,9/7/2022 0:00,Bob,Bob,pending,866223,260034,Client C
+P1223,Data Warehouse,1/3/2023 0:00,5/22/2022 0:00,Eve,Eve,pending,118841,643571,Client A
+P1224,Blockchain Integration,4/13/2023 0:00,2/24/2024 0:00,Frank,"Frank, David",pending,302310,747307,Client D
+P1229,Blockchain Integration,6/5/2024 0:00,10/19/2024 0:00,Alice,Frank,pending,899786,697949,Client E
+P1235,IoT Automation,7/15/2022 0:00,9/18/2022 0:00,Charlie,"Charlie, Frank, David",pending,329222,306525,Client A
+P1243,Blockchain Integration,10/16/2022 0:00,7/5/2022 0:00,David,David,pending,751353,636039,Client D
+P1246,Data Warehouse,9/27/2022 0:00,8/21/2023 0:00,Charlie,Charlie,pending,142301,64210,Client A
+P1248,Cloud Migration,8/3/2022 0:00,4/20/2023 0:00,Frank,Alice,pending,105199,454086,Client E
+P1251,Cloud Migration,11/30/2022 0:00,4/3/2022 0:00,David,"David, Eve, Frank",pending,600052,746223,Client B
+P1269,App Development,5/30/2024 0:00,6/9/2023 0:00,Eve,"Eve, Alice",pending,756369,444238,Client A
+P1270,Cloud Migration,6/20/2023 0:00,2/27/2022 0:00,David,David,pending,754818,271794,Client D
+P1273,IoT Automation,2/9/2024 0:00,7/10/2023 0:00,Charlie,Alice,pending,679546,113122,Client C
+P1276,AI Software,9/24/2023 0:00,8/27/2023 0:00,Frank,"Charlie, David, Frank",pending,898054,505707,Client C
+P1279,Blockchain Integration,9/10/2022 0:00,4/17/2024 0:00,Frank,"Frank, Eve",pending,252233,733701,Client C
+P1282,Data Warehouse,12/16/2023 0:00,8/6/2022 0:00,Alice,"David, Alice",pending,360257,126851,Client D
+P1284,IoT Automation,10/11/2022 0:00,8/12/2022 0:00,Charlie,Bob,pending,122306,801254,Client B
+P1290,AI Software,11/11/2022 0:00,7/12/2024 0:00,David,David,pending,959167,222987,Client A
+P1291,Cloud Migration,2/22/2024 0:00,6/8/2024 0:00,Frank,"Eve, Alice",pending,918443,557377,Client C
+P1305,App Development,8/24/2022 0:00,9/26/2023 0:00,Bob,David,pending,802699,146149,Client A
+P1311,Blockchain Integration,3/2/2022 0:00,4/20/2022 0:00,Eve,"Bob, David",pending,461426,294501,Client C
+P1324,Data Warehouse,8/22/2023 0:00,7/9/2024 0:00,Charlie,Alice,pending,176340,747702,Client D
+P1331,IoT Automation,7/22/2022 0:00,3/30/2024 0:00,Bob,Bob,pending,699268,85415,Client D
+P1334,AI Software,3/11/2024 0:00,8/19/2022 0:00,Eve,"Alice, Eve",pending,380019,420150,Client E
+P1339,IoT Automation,2/18/2023 0:00,3/26/2024 0:00,Frank,Bob,pending,996151,245529,Client D
+P1342,Data Warehouse,7/29/2024 0:00,3/1/2024 0:00,Alice,"Charlie, Frank",pending,101025,642899,Client E
+P1357,AI Software,3/27/2024 0:00,4/29/2023 0:00,Bob,"Frank, Eve, Charlie",pending,183995,850536,Client B
+P1370,Blockchain Integration,3/3/2023 0:00,12/7/2022 0:00,Eve,"David, Frank, Bob",pending,395175,789966,Client B
+P1373,Blockchain Integration,4/14/2022 0:00,11/14/2024 0:00,Bob,"Bob, David, Frank",pending,861288,652847,Client D
+P1382,Blockchain Integration,7/11/2023 0:00,6/5/2023 0:00,Charlie,"Charlie, Frank, Bob",pending,731031,653580,Client A
+P1391,App Development,9/28/2024 0:00,6/16/2023 0:00,Charlie,Eve,pending,279567,551992,Client B
+P1393,IoT Automation,2/3/2024 0:00,12/30/2022 0:00,Alice,"Frank, Alice",pending,671144,593762,Client E
+P1396,Data Warehouse,9/18/2022 0:00,8/23/2024 0:00,David,Bob,pending,272252,403032,Client B
+P1401,Blockchain Integration,8/14/2023 0:00,9/10/2024 0:00,Alice,Alice,pending,802160,644212,Client B
+P1404,Data Warehouse,8/16/2024 0:00,4/3/2023 0:00,Eve,Eve,pending,494244,690615,Client C
+P1406,App Development,8/20/2024 0:00,4/2/2024 0:00,Bob,Eve,pending,800318,198305,Client C
+P1420,IoT Automation,10/5/2022 0:00,10/6/2022 0:00,Frank,"Frank, Alice",pending,876907,323774,Client C
+P1421,IoT Automation,12/29/2022 0:00,9/17/2022 0:00,Eve,Charlie,pending,799689,629391,Client A
+P1427,AI Software,5/14/2022 0:00,4/8/2024 0:00,Bob,Charlie,pending,967510,264647,Client A
+P1429,App Development,4/6/2022 0:00,9/24/2023 0:00,Bob,Bob,pending,644656,477185,Client C
+P1438,Cloud Migration,12/21/2022 0:00,2/18/2024 0:00,Frank,Frank,pending,220570,485877,Client D
+P1446,App Development,6/12/2024 0:00,11/21/2023 0:00,Frank,Charlie,pending,767576,449957,Client D
+P1454,Cloud Migration,7/4/2023 0:00,2/23/2023 0:00,Alice,Alice,pending,930895,384010,Client B
+P1458,Cloud Migration,8/13/2023 0:00,9/29/2022 0:00,Charlie,David,pending,279243,221305,Client E
+P1467,Blockchain Integration,1/12/2024 0:00,7/19/2024 0:00,Alice,Alice,pending,176401,295128,Client C
+P1475,IoT Automation,7/15/2022 0:00,2/18/2024 0:00,Bob,"Alice, Frank, Bob",pending,381560,121010,Client A
+P1506,Blockchain Integration,8/18/2022 0:00,8/13/2022 0:00,David,"Charlie, David",pending,743851,510688,Client E
+P1510,IoT Automation,12/29/2023 0:00,4/9/2023 0:00,Eve,Eve,pending,668303,863892,Client D
+P1511,Blockchain Integration,2/24/2024 0:00,1/25/2023 0:00,Bob,"Alice, Bob",pending,753935,549423,Client B
+P1517,Data Warehouse,3/9/2023 0:00,8/3/2023 0:00,Frank,"Charlie, Alice, Frank",pending,886185,102477,Client D
+P1522,AI Software,11/27/2023 0:00,7/4/2022 0:00,Alice,"Bob, Alice, Eve",pending,930897,205543,Client B
+P1525,App Development,5/7/2022 0:00,12/31/2023 0:00,David,"David, Frank, Bob",pending,477861,891654,Client D
+P1527,Blockchain Integration,12/14/2022 0:00,1/29/2023 0:00,David,"David, Charlie",pending,749633,453992,Client D
+P1528,Data Warehouse,5/6/2023 0:00,5/26/2022 0:00,Bob,Bob,pending,578816,609705,Client A
+P1529,Blockchain Integration,3/8/2024 0:00,6/20/2022 0:00,Bob,"Frank, Alice",pending,132122,317095,Client E
+P1530,App Development,8/24/2023 0:00,10/16/2022 0:00,Eve,Frank,pending,276076,809910,Client E
+P1532,Data Warehouse,1/13/2024 0:00,6/1/2024 0:00,Bob,"David, Eve",pending,882733,707667,Client E
+P1541,Blockchain Integration,11/25/2022 0:00,5/8/2023 0:00,Charlie,Charlie,pending,875275,896559,Client D
+P1556,IoT Automation,8/29/2023 0:00,6/12/2022 0:00,Charlie,"Charlie, Frank",pending,655473,456648,Client C
+P1557,AI Software,5/21/2024 0:00,2/15/2024 0:00,Bob,Bob,pending,819781,311906,Client E
+P1560,Data Warehouse,4/15/2024 0:00,3/25/2023 0:00,Bob,Charlie,pending,845134,353312,Client C
+P1572,Data Warehouse,7/4/2023 0:00,12/3/2023 0:00,Eve,Bob,pending,808236,69421,Client D
+P1587,Data Warehouse,8/1/2024 0:00,3/19/2024 0:00,Bob,"Frank, Alice, David",pending,483894,217728,Client D
+P1593,App Development,4/21/2023 0:00,6/30/2022 0:00,David,David,pending,148016,426116,Client D
+P1603,Cloud Migration,9/10/2024 0:00,2/5/2024 0:00,David,Bob,pending,649161,855940,Client A
+P1605,App Development,8/7/2024 0:00,11/11/2024 0:00,Bob,Alice,pending,975468,383180,Client C
+P1606,Cloud Migration,4/11/2024 0:00,6/18/2024 0:00,Alice,"Bob, Eve",pending,601233,747135,Client B
+P1610,IoT Automation,10/10/2022 0:00,11/5/2023 0:00,Frank,"Charlie, Eve, Bob",pending,904243,727120,Client D
+P1625,Data Warehouse,9/22/2022 0:00,4/30/2024 0:00,David,"Bob, Alice, Frank",pending,716899,214662,Client E
+P1629,Data Warehouse,6/18/2023 0:00,12/23/2022 0:00,,,pending,286410,231294,Client C
+P1646,App Development,12/26/2022 0:00,7/22/2023 0:00,Charlie,Alice,pending,135430,576884,Client C
+P1647,App Development,10/19/2023 0:00,6/14/2024 0:00,Eve,"Alice, Charlie",pending,764186,572010,Client A
+P1652,Cloud Migration,5/1/2022 0:00,10/4/2022 0:00,Frank,Frank,pending,501675,345456,Client D
+P1653,Data Warehouse,5/30/2023 0:00,9/19/2024 0:00,Eve,"Frank, David, Eve",pending,750077,468691,Client C
+P1654,IoT Automation,7/1/2023 0:00,6/15/2024 0:00,Eve,"Frank, Eve, Alice",pending,614462,862720,Client D
+P1662,AI Software,3/29/2022 0:00,11/19/2023 0:00,Alice,Alice,pending,640345,370484,Client A
+P1664,App Development,10/7/2023 0:00,7/12/2023 0:00,Frank,"Eve, Alice",pending,486750,691449,Client A
+P1665,Blockchain Integration,12/5/2023 0:00,4/27/2023 0:00,Charlie,"David, Alice",pending,172973,277497,Client C
+P1679,App Development,10/14/2022 0:00,5/30/2022 0:00,Alice,"Bob, Frank, Charlie",pending,679596,109782,Client D
+P1683,IoT Automation,4/3/2024 0:00,1/15/2023 0:00,Bob,"Bob, Frank",pending,797467,52234,Client C
+P1688,IoT Automation,6/20/2022 0:00,9/27/2023 0:00,Frank,"Bob, Eve",pending,378533,151042,Client D
+P1699,Blockchain Integration,6/8/2023 0:00,5/31/2023 0:00,Eve,"Charlie, Bob",pending,226804,112538,Client A
+P1702,Cloud Migration,9/24/2022 0:00,11/15/2022 0:00,Charlie,"Bob, Charlie",pending,307954,843023,Client C
+P1705,IoT Automation,5/1/2024 0:00,4/14/2022 0:00,Charlie,"Charlie, Eve",pending,295190,266855,Client A
+P1713,Cloud Migration,6/8/2023 0:00,5/28/2023 0:00,Frank,Charlie,pending,713602,618675,Client C
+P1717,Data Warehouse,4/14/2023 0:00,6/7/2023 0:00,Charlie,David,pending,440894,505138,Client C
+P1722,App Development,6/14/2022 0:00,3/25/2022 0:00,Frank,"Frank, David",pending,379737,286568,Client A
+P1731,Data Warehouse,8/25/2023 0:00,12/10/2023 0:00,Alice,"David, Frank",pending,850246,851378,Client E
+P1741,App Development,5/22/2023 0:00,4/16/2022 0:00,Eve,"Charlie, Eve, Frank",pending,853679,735967,Client A
+P1744,Cloud Migration,8/20/2024 0:00,11/19/2024 0:00,Charlie,"Frank, Eve",pending,707732,686169,Client D
+P1746,Data Warehouse,1/6/2023 0:00,6/8/2023 0:00,Frank,Frank,pending,256489,577609,Client C
+P1769,Cloud Migration,11/6/2022 0:00,3/21/2023 0:00,Charlie,Frank,pending,347765,362330,Client B
+P1785,AI Software,2/5/2024 0:00,12/6/2022 0:00,David,Frank,pending,870621,128924,Client B
+P1787,AI Software,10/24/2023 0:00,10/14/2023 0:00,Charlie,"Charlie, Frank, Eve",pending,305869,890939,Client A
+P1789,AI Software,7/29/2022 0:00,6/22/2023 0:00,Bob,Bob,pending,592932,534487,Client C
+P1793,App Development,9/1/2023 0:00,7/21/2023 0:00,Bob,"Eve, Bob",pending,252236,612492,Client D
+P1794,Cloud Migration,7/8/2023 0:00,9/30/2024 0:00,Eve,Alice,pending,764053,162006,Client D
+P1795,IoT Automation,3/22/2023 0:00,2/25/2024 0:00,Bob,Alice,pending,259160,357198,Client B
+P1800,Cloud Migration,11/20/2022 0:00,7/9/2023 0:00,Bob,"Frank, Charlie, David",pending,156102,589775,Client E
+P0019,AI Software,9/6/2023 0:00,5/14/2022 0:00,Frank,Eve,Cancelled,532976.7075,158663,Client E
+P0020,Blockchain Integration,5/3/2023 0:00,1/16/2023 0:00,David,"Frank, Alice, David",Completed,532976.7075,873133,Client B
+P0070,IoT Automation,3/19/2022 0:00,9/14/2022 0:00,Eve,Alice,Active,532976.7075,794836,Client C
+P0074,Blockchain Integration,1/9/2023 0:00,5/30/2024 0:00,Bob,"Alice, Frank",Active,532976.7075,475239,Client E
+P0134,Cloud Migration,6/16/2022 0:00,9/6/2023 0:00,Alice,Frank,pending,532976.7075,117187,Client B
+P0150,App Development,10/14/2023 0:00,8/11/2023 0:00,Charlie,Charlie,Completed,532976.7075,628850,Client E
+P0160,IoT Automation,8/28/2024 0:00,4/12/2022 0:00,Eve,Bob,Completed,532976.7075,897073,Client A
+P0172,Cloud Migration,2/5/2024 0:00,11/29/2022 0:00,Eve,Alice,Cancelled,532976.7075,154413,Client B
+P0182,Data Warehouse,3/4/2023 0:00,10/19/2023 0:00,Frank,"David, Frank",pending,532976.7075,169473,Client A
+P0207,Cloud Migration,6/25/2022 0:00,1/21/2023 0:00,David,Charlie,Cancelled,532976.7075,613611,Client C
+P0213,Cloud Migration,7/17/2024 0:00,1/25/2024 0:00,Frank,"Bob, Alice, David",Active,532976.7075,218523,Client E
+P0220,Blockchain Integration,10/15/2023 0:00,2/19/2024 0:00,Eve,Eve,Cancelled,532976.7075,114712,Client A
+P0224,Blockchain Integration,11/6/2023 0:00,8/26/2023 0:00,Eve,Charlie,pending,532976.7075,238565,Client E
+P0236,Blockchain Integration,7/9/2024 0:00,3/6/2023 0:00,David,"David, Bob",pending,532976.7075,656701,Client B
+P0311,Blockchain Integration,6/16/2023 0:00,6/1/2022 0:00,David,David,pending,532976.7075,826298,Client E
+P0328,App Development,4/7/2022 0:00,3/11/2024 0:00,Eve,"Frank, Alice, David",Cancelled,532976.7075,696413,Client D
+P0339,App Development,4/29/2022 0:00,3/18/2022 0:00,Eve,"Eve, Alice, Frank",Completed,532976.7075,101695,Client E
+P0348,App Development,2/22/2024 0:00,5/10/2023 0:00,Frank,Charlie,Cancelled,532976.7075,493004,Client E
+P0382,Blockchain Integration,3/14/2024 0:00,9/10/2022 0:00,Charlie,Charlie,Active,532976.7075,304297,Client C
+P0400,Data Warehouse,1/5/2023 0:00,11/17/2024 0:00,Alice,Alice,pending,532976.7075,546970,Client E
+P0438,Data Warehouse,4/2/2023 0:00,1/10/2024 0:00,Alice,Bob,Completed,532976.7075,233320,Client B
+P0452,Cloud Migration,8/12/2024 0:00,9/4/2024 0:00,David,"Charlie, Alice, Bob",Cancelled,532976.7075,252950,Client D
+P0453,App Development,11/2/2023 0:00,9/17/2024 0:00,Frank,Eve,Active,532976.7075,797556,Client E
+P0458,AI Software,7/6/2024 0:00,7/22/2022 0:00,Charlie,"Eve, Charlie",Cancelled,532976.7075,819067,Client A
+P0460,IoT Automation,3/5/2023 0:00,3/25/2024 0:00,Charlie,David,Cancelled,532976.7075,861129,Client E
+P0479,AI Software,4/17/2024 0:00,6/13/2023 0:00,Eve,"David, Eve",Cancelled,532976.7075,577477,Client C
+P0509,Data Warehouse,10/21/2023 0:00,5/30/2022 0:00,David,"Eve, Bob, Alice",Completed,532976.7075,821061,Client A
+P0518,AI Software,7/25/2022 0:00,5/31/2023 0:00,Alice,David,pending,532976.7075,552625,Client A
+P0519,Data Warehouse,10/10/2023 0:00,8/21/2022 0:00,David,David,Completed,532976.7075,521244,Client C
+P0522,App Development,9/7/2023 0:00,7/17/2023 0:00,Frank,Charlie,Completed,532976.7075,814306,Client B
+P0556,IoT Automation,2/11/2023 0:00,10/30/2024 0:00,Bob,David,Cancelled,532976.7075,809699,Client C
+P0571,App Development,1/13/2024 0:00,12/25/2023 0:00,David,"Frank, David",Completed,532976.7075,67722,Client A
+P0585,IoT Automation,5/10/2024 0:00,4/13/2023 0:00,Eve,Eve,pending,532976.7075,438988,Client D
+P0590,Data Warehouse,11/26/2022 0:00,4/7/2024 0:00,Bob,"David, Bob",pending,532976.7075,617965,Client D
+P0598,App Development,12/30/2022 0:00,5/27/2022 0:00,Eve,David,Completed,532976.7075,358492,Client E
+P0632,Cloud Migration,1/26/2024 0:00,1/13/2023 0:00,Bob,Bob,Active,532976.7075,173499,Client D
+P0666,Cloud Migration,12/18/2023 0:00,6/1/2022 0:00,Alice,"Alice, Bob",Completed,532976.7075,271534,Client E
+P0712,Blockchain Integration,12/1/2023 0:00,11/4/2023 0:00,David,David,pending,532976.7075,650922,Client D
+P0716,IoT Automation,7/1/2023 0:00,12/8/2022 0:00,David,"Bob, Frank",Cancelled,532976.7075,483501,Client A
+P0733,Blockchain Integration,5/15/2022 0:00,5/26/2024 0:00,Bob,"Charlie, Bob",pending,532976.7075,599472,Client C
+P0763,Cloud Migration,4/23/2023 0:00,4/4/2024 0:00,Charlie,Charlie,Active,532976.7075,78894,Client B
+P0782,AI Software,9/8/2024 0:00,11/22/2022 0:00,Frank,"Alice, Charlie, David",Active,532976.7075,749254,Client D
+P0808,Blockchain Integration,2/13/2024 0:00,4/30/2022 0:00,Eve,"Bob, Alice, David",pending,532976.7075,118957,Client C
+P0841,Data Warehouse,11/29/2023 0:00,2/10/2023 0:00,Frank,"Charlie, Eve, Frank",Cancelled,532976.7075,303373,Client A
+P0851,Blockchain Integration,12/28/2023 0:00,4/2/2024 0:00,Bob,"Frank, David",Active,532976.7075,214810,Client B
+P0888,App Development,8/30/2024 0:00,8/4/2024 0:00,Alice,"Bob, Frank",pending,532976.7075,494069,Client D
+P0926,Data Warehouse,1/8/2024 0:00,12/5/2023 0:00,Frank,"Frank, Eve",Completed,532976.7075,96616,Client D
+P0937,Data Warehouse,11/8/2023 0:00,3/26/2023 0:00,David,David,pending,532976.7075,397811,Client B
+P0938,AI Software,3/29/2023 0:00,4/17/2023 0:00,Eve,"Alice, Bob, Charlie",Active,532976.7075,376098,Client B
+P0976,Data Warehouse,6/25/2022 0:00,1/1/2024 0:00,David,"Alice, Bob, Eve",pending,532976.7075,881570,Client E
+P0982,AI Software,12/19/2023 0:00,9/1/2022 0:00,Bob,"Charlie, David",Active,532976.7075,767002,Client D
+P1030,App Development,4/8/2024 0:00,10/9/2023 0:00,Alice,"Bob, Alice, David",pending,532976.7075,480897,Client E
+P1034,Cloud Migration,8/19/2023 0:00,12/4/2022 0:00,Bob,Frank,Completed,532976.7075,208655,Client E
+P1036,IoT Automation,8/25/2023 0:00,12/2/2022 0:00,Alice,"Eve, Frank, Alice",Active,532976.7075,717137,Client D
+P1129,App Development,3/28/2024 0:00,8/20/2022 0:00,David,"Charlie, Frank, David",Active,532976.7075,724041,Client A
+P1167,Blockchain Integration,3/8/2022 0:00,10/12/2023 0:00,Frank,"Alice, Eve, Bob",Completed,532976.7075,593264,Client D
+P1168,Data Warehouse,5/3/2022 0:00,10/19/2024 0:00,Bob,"Alice, Bob",Cancelled,532976.7075,234560,Client B
+P1172,Cloud Migration,12/24/2022 0:00,1/22/2024 0:00,Frank,Alice,Cancelled,532976.7075,872181,Client E
+P1176,Cloud Migration,11/27/2023 0:00,1/26/2023 0:00,Bob,"Frank, Charlie, David",pending,532976.7075,296028,Client B
+P1210,App Development,3/17/2022 0:00,3/14/2022 0:00,Alice,Alice,Completed,532976.7075,610078,Client A
+P1215,App Development,12/20/2023 0:00,7/5/2024 0:00,Bob,Bob,Active,532976.7075,277216,Client E
+P1230,Cloud Migration,6/2/2022 0:00,4/7/2023 0:00,Alice,Alice,Cancelled,532976.7075,403929,Client A
+P1234,Cloud Migration,4/6/2024 0:00,5/17/2023 0:00,Frank,Frank,pending,532976.7075,552046,Client A
+P1316,IoT Automation,3/10/2024 0:00,6/23/2022 0:00,Eve,"David, Frank",pending,532976.7075,896781,Client D
+P1328,AI Software,6/26/2023 0:00,6/4/2023 0:00,Alice,"Bob, Eve, David",Completed,532976.7075,143351,Client A
+P1350,Cloud Migration,3/23/2023 0:00,6/14/2024 0:00,Eve,"Eve, Frank",pending,532976.7075,218927,Client E
+P1354,Data Warehouse,4/9/2023 0:00,2/11/2024 0:00,Frank,"Charlie, David, Alice",Cancelled,532976.7075,693911,Client D
+P1366,App Development,6/23/2024 0:00,3/23/2022 0:00,Alice,Alice,Completed,532976.7075,691714,Client D
+P1383,IoT Automation,3/23/2023 0:00,3/9/2022 0:00,Eve,"David, Frank",pending,532976.7075,609078,Client D
+P1395,AI Software,10/17/2024 0:00,11/19/2024 0:00,Bob,Charlie,Cancelled,532976.7075,872470,Client E
+P1411,Data Warehouse,6/25/2023 0:00,4/27/2023 0:00,Bob,"Charlie, Frank, Bob",Completed,532976.7075,423543,Client E
+P1444,Cloud Migration,9/14/2023 0:00,3/30/2024 0:00,Eve,"Eve, Frank, Charlie",Active,532976.7075,792230,Client A
+P1492,Blockchain Integration,12/2/2022 0:00,7/5/2024 0:00,Eve,"Charlie, Frank, Eve",Completed,532976.7075,80454,Client E
+P1493,Cloud Migration,10/31/2022 0:00,7/4/2022 0:00,Bob,David,Active,532976.7075,801555,Client C
+P1507,AI Software,8/24/2024 0:00,10/30/2024 0:00,Bob,"Bob, Eve, Alice",pending,532976.7075,807294,Client B
+P1518,Blockchain Integration,2/16/2023 0:00,6/24/2024 0:00,David,Charlie,Active,532976.7075,720898,Client B
+P1548,Blockchain Integration,1/1/2023 0:00,3/30/2024 0:00,Alice,"David, Charlie, Alice",Cancelled,532976.7075,286490,Client B
+P1562,App Development,4/19/2023 0:00,6/5/2022 0:00,Eve,"Bob, Alice, Charlie",Cancelled,532976.7075,445191,Client D
+P1581,AI Software,9/19/2023 0:00,9/25/2023 0:00,Bob,"Charlie, David",pending,532976.7075,691809,Client D
+P1591,Blockchain Integration,10/7/2023 0:00,10/21/2022 0:00,Alice,Alice,Active,532976.7075,572199,Client C
+P1599,Cloud Migration,9/30/2023 0:00,12/27/2023 0:00,David,"David, Eve, Frank",Completed,532976.7075,810351,Client B
+P1640,IoT Automation,11/26/2023 0:00,12/23/2023 0:00,Frank,"David, Charlie, Bob",Active,532976.7075,613330,Client A
+P1675,Data Warehouse,4/3/2023 0:00,2/24/2024 0:00,Bob,Bob,pending,532976.7075,774203,Client E
+P1738,Cloud Migration,5/19/2024 0:00,12/24/2023 0:00,David,"David, Frank, Alice",pending,532976.7075,660272,Client E
+P1753,Data Warehouse,6/9/2023 0:00,4/23/2022 0:00,Frank,"Alice, Eve, Frank",Active,532976.7075,67444,Client A
+P1754,AI Software,10/4/2024 0:00,4/30/2023 0:00,Frank,Eve,pending,532976.7075,817436,Client C
+P1783,Cloud Migration,1/25/2023 0:00,12/29/2023 0:00,Charlie,"David, Charlie, Frank",Cancelled,532976.7075,697817,Client D
+P1792,Cloud Migration,10/4/2023 0:00,7/7/2024 0:00,David,David,Active,532976.7075,468033,Client D
